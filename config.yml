@@ -1,11 +1,25 @@
 baseURL: "https://hanwg.top"
-title: PaperMod
+title: Han Wuguang
 theme: [PaperMod]
+
+services:
+  googleAnalytics:
+    id: "G-M36QTZMP2P"
+privacy:
+  googleAnalytics:
+    disable: false
+    respectDoNotTrack: true
 
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: Hi there, I'm Wuguang
+    Content: and this is my software development blog.
+  showReadingTime: true
+  showToc: true
+  tocOpen: true
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  showPostNavLinks: true
 
   social: true
   socialIcons: # optional
@@ -24,6 +38,9 @@ languages:
       series: series
     menu:
       main:
+        - name: About
+          url: about
+          weight: 1
         - name: Archive
           url: archives
           weight: 5
