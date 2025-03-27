@@ -1,0 +1,25 @@
+baseURL: "https://hanwg.top"
+title: PaperMod
+theme: [PaperMod]
+
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  social: true
+  socialIcons: # optional
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/hanwuguang/"
+    - name: "GitHub"
+      url: "https://github.com/hanwg"
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
