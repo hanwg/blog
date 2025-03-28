@@ -1,3 +1,11 @@
+# About Me
+
+I'm a combination of software architect, developer and systems engineer.
+Throughout my career of more than 15 years, I've designed software systems, written code in various programming languages and maintained IT infrastructures.
+Like everyone else, I started with basic progamming skills that I learnt in school.
+With an inquisitive mind and a keen interest in technology, I started working on personal projects to help me develop my skills.
+This blog serves as journal of my learning experiences.
+
 # Work Experience
 
 |                                                      |                                                                         |
@@ -30,7 +38,7 @@ Key achievements:
 
 |                                                      |                                                                                            |
 |------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| ![CrimsonLogic logo](work-experience/crimsonlogic-logo.jpg) | **Deloitte**<br>Senior Security Engineer<br>June 2015 - June 2018 (3 years 1 month) |
+| ![CrimsonLogic logo](work-experience/crimsonlogic-logo.jpg) | **CrimsonLogic**<br>Senior Security Engineer<br>June 2015 - June 2018 (3 years 1 month) |
 
 Developer responsible for delivering government-to-government (G2G) software solutions.
 
