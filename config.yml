@@ -11,12 +11,13 @@ privacy:
     respectDoNotTrack: true
 
 params:
+  env: production
   homeInfoParams:
     Title: Hi there, I'm Wuguang
     Content: and this is my software development blog.
+  assets:
+    favicon: "/favicon.ico"
   showReadingTime: true
-  showToc: true
-  tocOpen: true
   showBreadCrumbs: true
   showCodeCopyButtons: true
   showPostNavLinks: true
@@ -38,7 +39,7 @@ languages:
       series: series
     menu:
       main:
-        - name: About
+        - name: About Me
           url: about
           weight: 1
         - name: Archive
@@ -50,6 +51,11 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 caches:
   images:
