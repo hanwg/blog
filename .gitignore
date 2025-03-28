@@ -1,6 +1,7 @@
-.hugo_build.lock
+# ignore indexers
 **@SynoEAStream
 Thumbs.db
 
-
+# ignore Hugo generated files
+.hugo_build.lock
 public
