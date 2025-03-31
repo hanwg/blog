@@ -14,7 +14,7 @@ params:
   env: production
   homeInfoParams:
     Title: Hi there, I'm Wuguang
-    Content: and this is my software development blog. I'll be sharing with you all things related to technology in this blog. 
+    Content: and this is my software development blog. I'll be sharing with you all things related to technology in this blog. If you would like to reach out to me, feel free to connect with me via LinkedIn.
   assets:
     favicon: "/favicon.ico"
   showReadingTime: true
