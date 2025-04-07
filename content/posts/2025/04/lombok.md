@@ -4,8 +4,6 @@ date: 2025-04-06
 tags:
   - Java
 ---
-Boost your Java development productivity with Lombok! 🚀
-
 **𝗪𝗵𝗮𝘁 𝗶𝘀 𝗶𝘁?**
 
 Lombok is a Java library which auto generates boilerplate code through the use of annotations.
@@ -57,3 +55,39 @@ public class User {
 ```
 - All the boilerplate code is replaced with just a `@Data` annotation.
 - If you need to add new attributes, you don't need to change the `equals()`, `hashCode()` and `toString()` methods as Lombok will handle them for you!
+
+**How to get started?**
+
+Note:
+The setup below is for maven projects.
+At the time of writing, the latest of Lombok is `1.18.38`.
+
+Add the Lombok dependency in your `pom.xml`:
+```xml
+<dependency>
+		<groupId>org.projectlombok</groupId>
+		<artifactId>lombok</artifactId>
+		<version>${lombok.version}</version>
+		<scope>provided</scope>
+</dependency>
+```
+
+After adding the Lombok dependency, you might get a prompt from your IDE to enable annotation processing (If you don't get the prompt, you will have to follow your IDE specific instructions to enable). Enable annotation processing.
+
+Add the following plugin in your `pom.xml` so that maven build can use the Lombok generated code.
+```xml
+<plugin>
+	<groupId>org.apache.maven.plugins</groupId>
+		<artifactId>maven-compiler-plugin</artifactId>
+		<version>3.14.0</version>
+		<configuration>
+			<annotationProcessorPaths>
+				<path>
+					<groupId>org.projectlombok</groupId>
+					<artifactId>lombok</artifactId>
+					<version>${lombok.version}</version>
+    			</path>
+			</annotationProcessorPaths>
+		</configuration>
+</plugin>
+```
