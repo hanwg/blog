@@ -66,7 +66,7 @@ It's not an exhausive list, I'm only listing the high level of certification obt
 
 |                                                                                            |          |                                                                                                                        |                |
 |--------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------|----------------|
-| <img src="certifications/togaf-logo.jpg" alt="drawing" height="30" width="30"/>            | TOGAF    | [TOGAF Enterprise Architecture Practitioner](https://www.credly.com/badges/)       | April 2025     |
+| <img src="certifications/togaf-logo.jpg" alt="drawing" height="30" width="30"/>            | TOGAF    | [TOGAF Enterprise Architecture Practitioner](https://www.credly.com/badges/7f355e8b-a321-4690-a2b9-cb7f0782036a/)       | April 2025     |
 | <img src="certifications/aws-logo.jpg" alt="drawing" height="30" width="30"/>              | Cloud    | [AWS Certified Security Specialty](https://www.credly.com/badges/7fe9783a-a85f-4545-8ec0-09326ee93abd)                 | March 2025     |
 | <img src="certifications/aws-logo.jpg" alt="drawing" height="30" width="30"/>              | Cloud    | [AWS Certified Solutions Architect Professional](https://www.credly.com/badges/d054c862-430c-49b5-9fb6-9f6f3c5a416e)   | March 2025     |
 | <img src="certifications/aws-logo.jpg" alt="drawing" height="30" width="30"/>              | Cloud    | [AWS Certified DevOps Engineer Professional](https://www.credly.com/badges/11779cc6-858d-43db-bea6-17778fef2cd9)       | March 2025     |
