@@ -13,4 +13,6 @@ Here's my opinionated list of the most important certifications for the IT indus
 - CompTIA
 - Any of Azure/GCP/AWS cloud certifications
 
+<br>
+
 What are you thoughts?

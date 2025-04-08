@@ -9,11 +9,15 @@ tags:
 Lombok is a Java library which auto generates boilerplate code through the use of annotations.
 It can generate code for getters/setters, `𝚎𝚚𝚞𝚊𝚕𝚜()`, `𝚑𝚊𝚜𝚑𝙲𝚘𝚍𝚎()`, `𝚝𝚘𝚂𝚝𝚛𝚒𝚗𝚐()` and even constructors/builders.
 
+<br>
+
 **𝗪𝗵𝘆 𝘂𝘀𝗲 𝗶𝘁?**
 
 It eliminates boilerplate code which leads to...
 - Improve readability since there is less clutter and also makes pull requests easier to review.
 - Increased productivity and frees up your time to focus on core business logic.
+
+<br>
 
 **An example**
 
@@ -46,6 +50,8 @@ public class User {
 }
 ```
 
+<br>
+
 With Lombok:
 ```java
 @Data
@@ -55,6 +61,8 @@ public class User {
 ```
 - All the boilerplate code is replaced with just a `@Data` annotation.
 - If you need to add new attributes, you don't need to change the `equals()`, `hashCode()` and `toString()` methods as Lombok will handle them for you!
+
+<br>
 
 **How to get started?**
 
