@@ -2,7 +2,7 @@
 
 I'm a combination of software architect, developer and systems engineer.
 Throughout my career of more than 15 years, I've designed software systems, written code in various programming languages and maintained IT infrastructures.
-Like everyone else, I started with basic progamming skills that I learnt in school.
+Like everyone else, I started with basic programming skills that I learnt in school.
 With an inquisitive mind and a keen interest in technology, I started working on personal projects to help me develop my skills.
 This blog serves as journal of my learning experiences.
 
@@ -10,7 +10,7 @@ This blog serves as journal of my learning experiences.
 
 |                                                      |                                                                         |
 |------------------------------------------------------|-------------------------------------------------------------------------|
-| ![JP Morgan logo](work-experience/jpmorgan-logo.jpg) | **JP Morgan Chase**<br>Software Engineer III<br>Feburary 2022 - Present |
+| ![JP Morgan logo](work-experience/jpmorgan-logo.jpg) | **JP Morgan Chase**<br>Software Engineer III<br>February 2022 - Present |
 
 Presently a full stack developer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various line of businesses in the bank.
 
@@ -23,21 +23,21 @@ Key achievements:
 
 ---
 
-|                                                      |                                                                        |
-|------------------------------------------------------|------------------------------------------------------------------------|
+|                                                     |                                                                         |
+|-----------------------------------------------------|-------------------------------------------------------------------------|
 | ![Deloitte logo](work-experience/deloitte-logo.jpg) | **Deloitte**<br>Manager<br>June 2018 - Feburary 2022 (3 years 9 months) |
 
 Software engineering manager at a consulting firm responsible for delivering IAM cyber security projects for the banking sector.
 
 Key achievements:
-- Led a team of 4-6 engineers to deliver a workforce IAM platform for a bank which served the entire organization across multiple geographic regions.
-- Architected solutions and acted as a subject matter expert to enhance pre-sales efforts, leading to improved client engagement.
+- Led a team of 4-6 engineers as technical lead to deliver a workforce IAM platform for a bank which served the entire organization across multiple geographic regions.
+- Architected solutions and acted as a subject-matter expert to enhance pre-sales efforts, leading to improved client engagement.
 - Empowered teams by providing mentorship and conducting firm-wide IAM training to engineers of various experience levels.
 
 ---
 
-|                                                      |                                                                                            |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|                                                             |                                                                                         |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | ![CrimsonLogic logo](work-experience/crimsonlogic-logo.jpg) | **CrimsonLogic**<br>Senior Security Engineer<br>June 2015 - June 2018 (3 years 1 month) |
 
 Developer responsible for delivering government-to-government (G2G) software solutions.
@@ -62,11 +62,11 @@ Key achievements:
 
 # Certifications
 
-It's not an exhausive list, I'm only listing the high level of certification obtained.
+It's not an exhaustive list, I'm only listing the high level of certification obtained.
 
 |                                                                                            |          |                                                                                                                        |                |
 |--------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------|----------------|
-| <img src="certifications/togaf-logo.jpg" alt="drawing" height="30" width="30"/>            | TOGAF    | [TOGAF Enterprise Architecture Practitioner](https://www.credly.com/badges/7f355e8b-a321-4690-a2b9-cb7f0782036a/)       | April 2025     |
+| <img src="certifications/togaf-logo.jpg" alt="drawing" height="30" width="30"/>            | TOGAF    | [TOGAF Enterprise Architecture Practitioner](https://www.credly.com/badges/7f355e8b-a321-4690-a2b9-cb7f0782036a/)      | April 2025     |
 | <img src="certifications/aws-logo.jpg" alt="drawing" height="30" width="30"/>              | Cloud    | [AWS Certified Security Specialty](https://www.credly.com/badges/7fe9783a-a85f-4545-8ec0-09326ee93abd)                 | March 2025     |
 | <img src="certifications/aws-logo.jpg" alt="drawing" height="30" width="30"/>              | Cloud    | [AWS Certified Solutions Architect Professional](https://www.credly.com/badges/d054c862-430c-49b5-9fb6-9f6f3c5a416e)   | March 2025     |
 | <img src="certifications/aws-logo.jpg" alt="drawing" height="30" width="30"/>              | Cloud    | [AWS Certified DevOps Engineer Professional](https://www.credly.com/badges/11779cc6-858d-43db-bea6-17778fef2cd9)       | March 2025     |
