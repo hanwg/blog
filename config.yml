@@ -42,10 +42,10 @@ languages:
     menu:
       main:
         - name: About Me
-          url: about
+          url: about/
           weight: 1
         - name: Archive
-          url: archives
+          url: archives/
           weight: 5
         - name: Search
           url: search/

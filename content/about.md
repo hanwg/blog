@@ -1,5 +1,8 @@
-# About Me
-
+---
+title: "About Me"
+layout: "about me"
+summary: "about me"
+---
 I'm a combination of software architect, developer and systems engineer.
 Throughout my career of more than 15 years, I've designed software systems, written code in various programming languages and maintained IT infrastructures.
 Like everyone else, I started with basic programming skills that I learnt in school.
