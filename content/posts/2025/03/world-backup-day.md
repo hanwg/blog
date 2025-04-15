@@ -1,6 +1,8 @@
 ---
 title: "Happy World Backup Day"
 date: 2025-03-31
+tags:
+  - SoftwareEngineering
 ---
 31 March is World Backup Day.
 It's a reminder to backup your data or risk losing them forever.

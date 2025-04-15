@@ -2,7 +2,7 @@
 title: "📖 𝗔 𝗺𝘂𝘀𝘁-𝗿𝗲𝗮𝗱 𝗯𝗼𝗼𝗸 𝗳𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀"
 date: 2025-04-11
 tags:
-  - learning
+  - SoftwareEngineering
 ---
 Recently, I came across a gem that I would like to share.
 It's a book titled "𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲𝗹𝘆 𝘄𝗶𝘁𝗵 𝗟𝗲𝗴𝗮𝗰𝘆 𝗖𝗼𝗱𝗲" by Michael Feathers.

@@ -1,3 +1,6 @@
+.idea
+hugo.exe
+
 # ignore indexers
 **@SynoEAStream
 Thumbs.db

@@ -2,7 +2,7 @@
 title: "Boost your Java development productivity with Lombok! 🚀"
 date: 2025-04-06
 tags:
-  - Java
+  - SoftwareEngineering
 ---
 **𝗪𝗵𝗮𝘁 𝗶𝘀 𝗶𝘁?**
 

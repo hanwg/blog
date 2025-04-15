@@ -2,7 +2,7 @@
 title: "𝗕𝗿𝗲𝗮𝗱𝘁𝗵 𝗼𝗿 𝗗𝗲𝗽𝘁𝗵? 𝗔 𝗰𝗼𝗻𝘂𝗻𝗱𝗿𝘂𝗺 𝗳𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 🤔"
 date: 2025-04-08
 tags:
-  - learning
+  - SoftwareEngineering
 ---
 Software engineers constantly face a crucial question: Should I develop my knowledge across many technologies or develop deep expertise in a few areas?
 

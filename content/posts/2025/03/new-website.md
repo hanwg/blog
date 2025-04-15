@@ -2,7 +2,7 @@
 title: "I've created a new personal website"
 date: 2025-03-28
 tags:
-  - learning
+  - Learning
 ---
 I've created a new personal website: https://hanwg.top  
 
