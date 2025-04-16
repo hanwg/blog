@@ -2,7 +2,7 @@
 title: "SkillsFuture credits are expiring in 2025"
 date: 2025-03-31
 tags:
-  - Learning
+  - SoftwareEngineering
 ---
 SkillsFuture SG is an initiative by the Singapore government to upskill workers.
 With credits expiring at the end of 2025, this is our last opportunity to use this benefit to develop our skills.

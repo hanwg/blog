@@ -4,7 +4,6 @@ date: 2025-03-26
 tags:
   - AWS
   - Cloud
-  - Learning
 ---
 I'm overjoyed that I've obtained the Amazon Web Services (AWS) DevOps Professional, Solutions Architect Professional and Security Specialty certifications.
 I did the certifications because I wanted to validate my skills after working on projects on AWS for a number of years.
