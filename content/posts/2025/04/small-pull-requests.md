@@ -14,7 +14,7 @@ There's a better way to do code reviews - small PRs.
 
 - Easier and faster to review:
   The smaller scope and more focused changes helps to avoid cognitive overload.
-  It's easier for reviewers to understand the developer's intend and provide feedback.
+  It's easier for reviewers to understand the developer's intent and provide feedback.
   On the contrary, large PRs tend to require more clarifications which results in reduced productivity. 
 - Reduces merge conflicts: By nature, the small changeset means less likelihood of conflicts with other PRs.
 - It's easier to catch bugs (e.g. a misunderstood requirement which was incorrectly implemented).
