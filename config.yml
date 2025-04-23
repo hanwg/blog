@@ -44,6 +44,9 @@ languages:
         - name: About Me
           url: about/
           weight: 1
+        - name: Side Projects
+          url: side-projects/
+          weight: 2
         - name: Archive
           url: archives/
           weight: 5
