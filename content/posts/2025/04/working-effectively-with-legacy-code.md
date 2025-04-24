@@ -3,6 +3,10 @@ title: "📖 𝗔 𝗺𝘂𝘀𝘁-𝗿𝗲𝗮𝗱 𝗯𝗼𝗼𝗸 𝗳𝗼�
 date: 2025-04-11
 tags:
   - SoftwareEngineering
+cover:
+  image: "posts/2025/04/working-effectively-with-legacy-code.jpg"
+  alt: "working effectively with legacy code"
+  caption: "Book cover: Working Effectively with Legacy Code"
 ---
 Recently, I came across a gem that I would like to share.
 It's a book titled "𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲𝗹𝘆 𝘄𝗶𝘁𝗵 𝗟𝗲𝗴𝗮𝗰𝘆 𝗖𝗼𝗱𝗲" by Michael Feathers.
