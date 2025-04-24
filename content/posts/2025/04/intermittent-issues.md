@@ -3,6 +3,10 @@ title: "Decoding Intermittent Application Failures"
 date: 2025-04-23
 tags:
   - SoftwareEngineering
+cover:
+  image: "posts/2025/04/intermittent-issues.png"
+  alt: "intermittent issues"
+  caption: "intermittent issues"
 ---
 Ever experienced that frustrating moment where your application works perfectly but would randomly fail after running for a period of time?
 To help you troubleshoot such elusive issues, I've compiled a list of top reasons why you application is failing intermittently and how to handle them.  
