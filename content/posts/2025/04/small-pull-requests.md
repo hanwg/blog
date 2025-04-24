@@ -3,6 +3,10 @@ title: "Engineering Teams Should Embrace Small Pull Requests"
 date: 2025-04-16
 tags:
   - SoftwareEngineering
+cover:
+  image: "posts/2025/04/small-pull-requests.png"
+  alt: "small pull requests"
+  caption: "How is it possible to review everything?"
 ---
 Have you ever had a Pull Request (PR) that was more than a few weeks old and had thousands of lines of code changes spanning a large number of files? 
 I'm sure the code review process went like this: Hmmm, looks good to me.
