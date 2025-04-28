@@ -1,5 +1,6 @@
 ---
 title: "Happy World Backup Day"
+summary: "Happy world backup day. Protect your data against loss and theft."
 date: 2025-03-31
 tags:
   - SoftwareEngineering

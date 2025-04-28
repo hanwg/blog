@@ -1,5 +1,6 @@
 ---
 title: "𝗕𝗿𝗲𝗮𝗱𝘁𝗵 𝗼𝗿 𝗗𝗲𝗽𝘁𝗵? 𝗔 𝗰𝗼𝗻𝘂𝗻𝗱𝗿𝘂𝗺 𝗳𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 🤔"
+summary: "Should a software engineer develop his/her skills deep in an area or across many areas?"
 date: 2025-04-08
 tags:
   - SoftwareEngineering

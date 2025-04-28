@@ -1,5 +1,6 @@
 ---
 title: "I built a tool to convert PDF files to CSV"
+summary: "The development process behind PDF DataTable"
 date: 2025-04-28
 tags:
   - SoftwareEngineering

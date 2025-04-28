@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: "about me"
-summary: "about me"
+summary: "Han Wuguang's profile, core skills, work experience, certifications and education"
 ---
 I'm a combination of software architect, developer and systems engineer.
 Throughout my career of more than 15 years, I've designed software systems, written code in various programming languages and maintained IT infrastructures.

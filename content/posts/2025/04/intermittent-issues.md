@@ -1,5 +1,6 @@
 ---
 title: "Decoding Intermittent Application Failures"
+summary: "Top reasons why applications fail intermittently and how to prevent them"
 date: 2025-04-23
 tags:
   - SoftwareEngineering

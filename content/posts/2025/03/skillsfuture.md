@@ -1,5 +1,6 @@
 ---
 title: "SkillsFuture credits are expiring in 2025"
+summary: "Most important certifications for the IT industry"
 date: 2025-03-31
 tags:
   - SoftwareEngineering

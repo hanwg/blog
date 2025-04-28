@@ -1,5 +1,6 @@
 ---
 title: "ComfyUI Quickstart"
+summary: "How to generate images with AI using ComfyUI"
 date: 2025-03-30
 tags:
   - AI

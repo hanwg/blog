@@ -1,5 +1,6 @@
 ---
 title: "I've got my AWS certifications 😆"
+summary: "My achievement: AWS DevOps, Solutions Architect and Security Specialty certifications"
 date: 2025-03-26
 tags:
   - AWS

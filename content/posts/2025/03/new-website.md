@@ -1,5 +1,6 @@
 ---
 title: "I've created a new personal website"
+summary: "Starting a new website with Hugo and GitHub pages"
 date: 2025-03-28
 tags:
   - SoftwareEngineering

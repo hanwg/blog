@@ -1,5 +1,6 @@
 ---
 title: "📖 𝗔 𝗺𝘂𝘀𝘁-𝗿𝗲𝗮𝗱 𝗯𝗼𝗼𝗸 𝗳𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀"
+summary: "Book recommendation: Working effectively with legacy code"
 date: 2025-04-11
 tags:
   - SoftwareEngineering
