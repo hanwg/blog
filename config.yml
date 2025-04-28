@@ -1,6 +1,5 @@
 baseURL: "https://hanwg.top"
 title: Han Wuguang's Tech Blog
-description: I am Wuguang, a software engineer based in Singapore. I write about tech in general but mostly related to software engineering.
 theme: [PaperMod]
 
 services:
@@ -16,6 +15,7 @@ params:
   homeInfoParams:
     Title: Hi there, I'm Wuguang
     Content: and this is my software development blog. I'll be sharing with you all things related to technology in this blog. If you would like to reach out to me, feel free to connect with me via LinkedIn.
+  description: I'm Wuguang, a architect / software engineer / site reliability engineer based in Singapore. I write about tech including topics in software engineering.
   assets:
     favicon: "/favicon.ico"
   showReadingTime: true
