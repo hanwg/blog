@@ -8,7 +8,7 @@ It's a little bare at the moment since I'm still in the midst of filling up this
 
 ---
 
-# <img src="pdf-datatable-icon.png" alt="PDF DataTable logo" style="width: 30px; display: inline; margin: 0" /> PDF DataTable
+## <img src="pdf-datatable-icon.png" alt="PDF DataTable logo" style="width: 30px; display: inline; margin: 0" /> PDF DataTable
 
 <code>React</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
@@ -19,7 +19,7 @@ I used the React-PDF library to render PDFs to allow me to select elements so th
 
 ---
 
-# My Blog
+## My Blog
 
 <code>Static Site Generator</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 

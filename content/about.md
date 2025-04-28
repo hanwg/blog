@@ -9,7 +9,7 @@ Like everyone else, I started with basic programming skills that I learnt in sch
 With an inquisitive mind and a keen interest in technology, I started working on personal projects to help me develop my skills.
 This blog serves as journal of my learning experiences.
 
-# Core Skills
+## Core Skills
 The following is a list of my core skills (not an exhaustive list) which I have been practicing for the past few years:
 
 |                       |                                                                                               |
@@ -23,7 +23,7 @@ The following is a list of my core skills (not an exhaustive list) which I have 
 | Systems Engineering   | `DNS` `Web Servers` `Load Balancers` `Monitoring` `Alerting` `Virtualization` `Networking`    |
 | Misc.                 | `Agile` `Project Management`                                                                  |
 
-# Work Experience
+## Work Experience
 
 |                                                      |                                                                         |
 |------------------------------------------------------|-------------------------------------------------------------------------|
@@ -68,8 +68,7 @@ Key achievements:
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------|
 | ![ST logo](work-experience/st-logo.jpg) | **ST Electronics (Info-Software)**<br>Software Engineer<br>July 2009 - May 2018 (5 years 11 months) |
 
-Developer responsible for building and maintaining systems for government agencies including mission
-critical systems.
+Developer responsible for building and maintaining systems for government agencies including mission-critical systems.
 
 Key achievements:
 - Identified and resolved application performance bottlenecks by optimizing SQL queries and finetuning the database through the use of indexes and materialized views.
@@ -77,7 +76,7 @@ Key achievements:
 - Completed full SDLC lifecycles and successfully launched multiple projects.
 
 
-# Certifications
+## Certifications
 
 It's not an exhaustive list, I'm only listing the high level of certification obtained.
 
@@ -96,7 +95,7 @@ It's not an exhaustive list, I'm only listing the high level of certification ob
 | <img src="certifications/oracle-logo.jpg" alt="drawing" height="30" width="30"/>           | Database | Oracle Database 11g Administrator Certified Associate                                                                  | January 2011   |
 | <img src="certifications/oracle-logo.jpg" alt="drawing" height="30" width="30"/>           | App      | Java Certified Programmer                                                                                              | 2004           |
 
-# Education
+## Education
 
 |                                     |                                                                                           |
 |-------------------------------------|-------------------------------------------------------------------------------------------|

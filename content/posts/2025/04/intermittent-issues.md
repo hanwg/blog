@@ -12,7 +12,7 @@ cover:
 Ever experienced that frustrating moment where your application works perfectly but would randomly fail after running for a period of time?
 To help you troubleshoot such elusive issues, I've compiled a list of top reasons why you application is failing intermittently and how to handle them.  
 
-# The Perils of Date and Time
+## The Perils of Date and Time
 
 A surprising number of bugs stem from improper handling of date and time operations.
 If your application deal with workflows, scheduling and reporting, you might want to keep an eye out for this.
@@ -29,7 +29,7 @@ How to avoid:
 - Standardize timezones to UTC and only convert to local timezone for display purposes
 - Always use 4-digits year format to avoid ambiguity in 2-digit representations
 
-# Race Conditions
+## Race Conditions
 
 In complex applications, multiple threads/processes might attempt to access and modify the same resource simultaneously.
 If not managed carefully, this can lead to unpredictable behaviour and intermittent issues which are difficult to reproduce. 
@@ -43,7 +43,7 @@ How to avoid:
 - Leverage on concurrency libraries to manage threads and synchronization
 - Limit the scope of critical sections
 
-# Resource Constraints
+## Resource Constraints
 
 Your application might run well during normal conditions but falter under heavy load.
 
@@ -58,7 +58,7 @@ How to avoid:
 - Profile your application to identify and resolve memory leaks
 - Conduct performance and load testing to validate that your system is able to support the required capacity
 
-# Depleted Entropy
+## Depleted Entropy
 
 Applications relying heavily on cryptographic secure randomness may occasionally face issues if the entropy pool is exhausted.
 
@@ -71,7 +71,7 @@ How to avoid:
 - Use dedicated hardware (HSMs) for cryptographic operations
 - Consider using non-blocking APIs that generates pseudo randomness which does not deplete entropy
 
-# Depleted File Descriptors
+## Depleted File Descriptors
 
 Applications that handle a large number of files or network connections might run into problems when file handles are depleted.
 

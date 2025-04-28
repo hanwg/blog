@@ -15,7 +15,7 @@ I'm sure the code review process went like this: Hmmm, looks good to me.
 Now, this is against the spirit of code reviews and definitely something that I would strongly discourage. 
 There's a better way to do code reviews - small PRs.
 
-**Why we should embrace small PRs**
+## Why we should embrace small PRs
 
 - Easier and faster to review:
   The smaller scope and more focused changes helps to avoid cognitive overload.

@@ -1,11 +1,11 @@
 ---
 title: "ComfyUI Quickstart"
-summary: "How to generate images with AI using ComfyUI"
+summary: "ComfyUI Quickstart: How to generate images with AI using ComfyUI"
 date: 2025-03-30
 tags:
   - AI
 ---
-# Introduction
+## Introduction
 
 This is a quickstart guide for using ComfyUI to generate AI art using text prompts (i.e. text-to-image).
 Unlike other tutorials, we are just going to jump into the fun part of generating images without spending hours going through AI concepts.
@@ -18,7 +18,7 @@ An over simplified explanation:
 
 If you like to see some samples of AI art that I generated on my PC, head over to my post here: [Generating AI art](../../generating-ai-art/generating-ai-art/)
 
-# What you need
+## What you need
 
 - An hour of free time
 - Windows-based PC

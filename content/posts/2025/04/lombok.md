@@ -1,18 +1,18 @@
 ---
 title: "Boost your Java development productivity with Lombok! 🚀"
-summary: ""
+summary: "Improve productivity for your Java projects using Lombok"
 date: 2025-04-06
 tags:
   - SoftwareEngineering
 ---
-**𝗪𝗵𝗮𝘁 𝗶𝘀 𝗶𝘁?**
+## 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗶𝘁?
 
 Lombok is a Java library which auto generates boilerplate code through the use of annotations.
 It can generate code for getters/setters, `𝚎𝚚𝚞𝚊𝚕𝚜()`, `𝚑𝚊𝚜𝚑𝙲𝚘𝚍𝚎()`, `𝚝𝚘𝚂𝚝𝚛𝚒𝚗𝚐()` and even constructors/builders.
 
 <br>
 
-**𝗪𝗵𝘆 𝘂𝘀𝗲 𝗶𝘁?**
+## 𝗪𝗵𝘆 𝘂𝘀𝗲 𝗶𝘁?
 
 It eliminates boilerplate code which leads to...
 - Improve readability since there is less clutter and also makes pull requests easier to review.
@@ -20,7 +20,7 @@ It eliminates boilerplate code which leads to...
 
 <br>
 
-**An example**
+## An example
 
 No Lombok:
 ```java
@@ -65,7 +65,7 @@ public class User {
 
 <br>
 
-**How to get started?**
+## How to get started?
 
 Note:
 The setup below is for maven projects.
@@ -74,10 +74,10 @@ At the time of writing, the latest of Lombok is `1.18.38`.
 Add the Lombok dependency in your `pom.xml`:
 ```xml
 <dependency>
-		<groupId>org.projectlombok</groupId>
-		<artifactId>lombok</artifactId>
-		<version>${lombok.version}</version>
-		<scope>provided</scope>
+	<groupId>org.projectlombok</groupId>
+	<artifactId>lombok</artifactId>
+	<version>${lombok.version}</version>
+	<scope>provided</scope>
 </dependency>
 ```
 

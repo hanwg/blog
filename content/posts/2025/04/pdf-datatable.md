@@ -1,5 +1,5 @@
 ---
-title: "I built a tool to convert PDF files to CSV"
+title: "I built a tool to convert PDF files to CSV - PDF DataTable"
 summary: "The development process behind PDF DataTable"
 date: 2025-04-28
 tags:
@@ -8,7 +8,7 @@ tags:
 I launched [PDF DataTable](https://pdf-datatable.hanwg.top) on 21 April 2025.
 It was my latest personal project and I thought it would be interesting to share the development process that went into building the app.
 
-# Why Did I Build PDF DataTable?
+## Why Did I Build PDF DataTable?
 
 I have an aversion regarding the use of free online tools.
 
@@ -16,7 +16,7 @@ The adage, "if you aren't paying for the product, you are the product" perfectly
 
 Besides the privacy concern, I wanted to refresh my frontend development skills and also experiment with a different approach in handling PDF conversions.
 
-# PDF Conversions - The Typical Way
+## PDF Conversions - The Typical Way
 
 The typical PDF conversion works like this:
 1) The user uploads the PDF file to the server
@@ -27,7 +27,7 @@ The typical PDF conversion works like this:
 While regular expressions work well for most cases, there are situations where records can't be parsed or get filtered out unintentionally.
 A thought came to my mind - what if the user can interact directly with the PDF file and have a real-time preview of their CSV output?
 
-# PDF Conversions - The New Approach
+## PDF Conversions - The New Approach
 
 With real-time previews as a key consideration, the flow of the new app is as follows:
 1) The user selects the PDF file
@@ -38,13 +38,13 @@ With real-time previews as a key consideration, the flow of the new app is as fo
 6) The server converts the selected content to CSV
 7) (Optional) The server saves step 3 as a template.
 
-# Designing the UI
+## Designing the UI
 
 The UI needs to allow the user specify the relevant content on the PDF.
 I thought about a few possible ideas but eventually settled on text selection.
 (They aren't mutually exclusive but it will be too much effort to implement all of them)
 
-## Lasso Tool
+### Lasso Tool
 
 This idea came naturally - the user would click on the lasso tool and draw an outline on the `canvas`.
 I would then select the `left`, `right`, `top` and `bottom` points of the drawing to determine the bounding box.
@@ -52,14 +52,14 @@ Any PDF content within the bounding box will be converted to CSV.
 
 This is fairly easy to implement but seems rather messy if the PDF file spans multiple pages. 
 
-## Hough Line Transform
+### Hough Line Transform
 
 This approach uses `houghLines` from the [OpenCV](https://opencv.org/) (Open source Computer Vision) library to detect lines of the table.
 The user will then select the top and bottom lines to indicate the CSV content.
 
 This idea was abandoned since it requires the tables to have borders. 
 
-## Regular Expressions (Regex)
+### Regular Expressions (Regex)
 
 The most basic of all - The user enters the regular expression in a textbox and I match the text content line-by-line against the regex.
 
@@ -69,7 +69,7 @@ No match - Update the PDF render (e.g. gray-out the elements) and exclude from C
 
 This works so it might be a possible feature in the future.
 
-## Text Selection
+### Text Selection
 
 This approach is described as follows:
 1) The user selects a piece of text from the PDF render.
@@ -82,19 +82,19 @@ This approach is described as follows:
 
 This approach is more complex to develop but it is more user-friendly compared to regex.
 
-# Other Considerations
+## Other Considerations
 
 My budget for this app is $0 so I decided to run the app entirely on [GitHub Pages](https://pages.github.com/).
 There would be no servers for backend processing so all the logic will run on the user's device.
 
-# Building the App
+## Building the App
 
 The app consists of the following components:
 - File selection
 - PDF render
 - CSV download
 
-## File Selection
+### File Selection
 
 File selection is pretty straight-forward.
 
@@ -103,7 +103,7 @@ I first create a hidden `<input type="file" />` for the file input.
 Next step is to create a drag-and-drop `div` and attaching the `onDrop` and `onClick` event listeners to trigger the file input.
 The tricky bit is to use `event.preventDefault()` for the `onDrop` event to prevent the browser from navigating away from the app and opening the file.
 
-## PDF Render
+### PDF Render
 
 I used [React-pdf](https://react-pdf.org/), a React component built using [PDF.js](https://mozilla.github.io/pdf.js/), a browser-based PDF library by Mozilla to handle PDFs.
 
@@ -138,7 +138,7 @@ Each `span` element corresponds to a text element from the PDF and has the follo
 
 After an element is created, I added a `onClick` event handler to allow the user to select the element and execute the text selection logic. 
 
-## CSV Download
+### CSV Download
 
 For this part, I created an invisible anchor which can initiate file download:
 ```
@@ -162,7 +162,7 @@ function downloadCsv() {
 }
 ```
 
-# Conclusion
+## Conclusion
 
 A PDF file is like a random bag of text/images elements. Sometimes, the elements overlap each other, sometimes they are rotated, scaled or even sheared.
 
