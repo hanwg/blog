@@ -1,6 +1,6 @@
 ---
 title: "Engineering Teams Should Embrace Small Pull Requests"
-summary: "Advocating for small pull requests"
+summary: "Advocating for small pull requests - the why and how"
 date: 2025-04-16
 tags:
   - SoftwareEngineering

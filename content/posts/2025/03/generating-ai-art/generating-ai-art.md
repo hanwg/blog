@@ -1,6 +1,6 @@
 ---
 title: "Generating AI art with ComfyUI"
-summary: "Generating AI images and videos with ComfyUI"
+summary: "Using ComfyUI to generate AI images and videos"
 date: 2025-03-30
 tags:
   - AI
