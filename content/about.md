@@ -9,6 +9,20 @@ Like everyone else, I started with basic programming skills that I learnt in sch
 With an inquisitive mind and a keen interest in technology, I started working on personal projects to help me develop my skills.
 This blog serves as journal of my learning experiences.
 
+# Core Skills
+The following is a list of my core skills (not an exhaustive list) which I have been practicing for the past few years:
+
+|                       |                                                                                               |
+|-----------------------|-----------------------------------------------------------------------------------------------|
+| Programming Languages | `Java (Spring)` `Python` `Linux (Bash)`                                                       |
+| Architectures         | `Distributed systems` `Event-driven` `Serverless` `Microservices` `Containerization (Docker)` |
+| Cloud                 | `AWS` `Terraform` `Kubernetes`                                                                |
+| Database Systems      | `RDBMS` (SQL)<br>`DynamoDB` (NoSQL)                                                           |
+| Frontend Development  | `React` `JavaScript` `HTML` `CSS`                                                             |
+| CICD                  | `Git` `Jenkins` `Maven` `Gradle` `JUnit 5`                                                    |
+| Systems Engineering   | `DNS` `Web Servers` `Load Balancers` `Monitoring` `Alerting` `Virtualization` `Networking`    |
+| Misc.                 | `Agile` `Project Management`                                                                  |
+
 # Work Experience
 
 |                                                      |                                                                         |
