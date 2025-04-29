@@ -5,7 +5,7 @@ date: 2025-03-31
 tags:
   - SoftwareEngineering
 cover:
-  image: "posts/2025/03/world-backup-day.png"
+  image: "posts/2025/03/world-backup-day.webp"
   alt: "world backup day"
   caption: "World Backup Day: Protect your data against loss and theft"
 ---

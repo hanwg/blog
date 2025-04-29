@@ -5,7 +5,7 @@ date: 2025-04-23
 tags:
   - SoftwareEngineering
 cover:
-  image: "posts/2025/04/intermittent-issues.png"
+  image: "posts/2025/04/intermittent-issues.webp"
   alt: "intermittent issues"
   caption: "Is this what your system is like after running for prolong periods of time?"
 ---

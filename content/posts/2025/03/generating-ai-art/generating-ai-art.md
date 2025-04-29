@@ -17,9 +17,9 @@ You might be wondering why not use ChatGPT / Co-Pilot / Gemini? Here's why:
 Here are some samples that I generated:
 |                                                                        |                                                                                                                                                            |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Girl in library](../girl-in-library.png)"                            | **Prompt**<br>A young woman with cat ears and glasses sitting in a library<br><br>**Model:** SD3.5                                                         |
-| ![Miniature town in Kyoto](../miniature-town-in-kyoto.png)             | **Prompt**<br>Miniature of a quaint town in Kyoto<br><br>**Model:** SD3.5                                                                                  |
-| ![Knight facing dragon](../knight-dragon.png)                          | **Prompt**<br>A knight in shining armor carrying a AK47 facing a black dragon. Bolts of lightning could be seen in the background.<br><br>**Model:** SD3.5 |
+| ![Girl in library](../girl-in-library.webp)"                            | **Prompt**<br>A young woman with cat ears and glasses sitting in a library<br><br>**Model:** SD3.5                                                         |
+| ![Miniature town in Kyoto](../miniature-town-in-kyoto.webp)             | **Prompt**<br>Miniature of a quaint town in Kyoto<br><br>**Model:** SD3.5                                                                                  |
+| ![Knight facing dragon](../knight-dragon.webp)                          | **Prompt**<br>A knight in shining armor carrying a AK47 facing a black dragon. Bolts of lightning could be seen in the background.<br><br>**Model:** SD3.5 |
 | <img alt="Rabbit walking along street" src="../rabbit-streets.webp" /> | **Prompt**<br>Long shot. An anthropomorphic rabbit wearing a trench coat walking along a dimly lit street<br><br>**Model:** Wan2.1                         |
 
 ComfyUI can be intimidating to new users so I wrote a quickstart guide here: [ComfyUI Quickstart](../../comfyui-quickstart/comfyui-quickstart)
