@@ -8,6 +8,17 @@ It's a little bare at the moment since I'm still in the midst of filling up this
 
 ---
 
+## <img src="sg-bus-arrivals-icon.png" alt="SG Bus Arrivals logo" style="width: 30px; display: inline; margin: 0" /> SG Bus Arrivals
+
+<code>Home Automation</code> <code>Python</code>
+
+SG Bus Arrivals is a custom integration for [Home Assistant](https://www.home-assistant.io/).
+It uses the [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en.html) APIs to fetch data on public transport services. 
+
+[📄 GitHub Repo](https://github.com/hanwg/sg-bus-arrivals) | [📖 Blog Post](/posts/2025/05/sg-bus-arrivals/sg-bus-arrivals/)
+
+---
+
 ## <img src="pdf-datatable-icon.png" alt="PDF DataTable logo" style="width: 30px; display: inline; margin: 0" /> PDF DataTable
 
 <code>React</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
