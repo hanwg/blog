@@ -8,7 +8,20 @@ It's a little bare at the moment since I'm still in the midst of filling up this
 
 ---
 
-## <img src="sg-bus-arrivals-icon.png" alt="SG Bus Arrivals logo" style="width: 30px; display: inline; margin: 0" /> SG Bus Arrivals
+## <img src="telegram-icon.png" alt="Telegram logo" class="side-projects-icon" /> Home Assistant Telegram Integration
+
+<code>Home Automation</code> <code>Python</code>
+
+Current code owner and active maintainer of the Telegram integration.
+
+I am not affiliated with [Home Assistant](https://www.home-assistant.io/) and neither did I create this integration.
+I am just one of the contributors to the project.
+
+[🌐 Website](https://www.home-assistant.io/integrations/telegram_bot/) | [📄 GitHub Repo](https://github.com/hanwg/core) | [📖 Blog Post](/posts/2025/07/open-source-journey/)
+
+---
+
+## <img src="sg-bus-arrivals-icon.png" alt="SG Bus Arrivals logo" class="side-projects-icon" /> SG Bus Arrivals
 
 <code>Home Automation</code> <code>Python</code>
 
@@ -19,7 +32,7 @@ It uses the [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en.html)
 
 ---
 
-## <img src="pdf-datatable-icon.png" alt="PDF DataTable logo" style="width: 30px; display: inline; margin: 0" /> PDF DataTable
+## <img src="pdf-datatable-icon.png" alt="PDF DataTable logo" class="side-projects-icon" /> PDF DataTable
 
 <code>React</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
@@ -30,7 +43,7 @@ I used the React-PDF library to render PDFs to allow me to select elements so th
 
 ---
 
-## My Blog
+## <img src="blog-icon.png" alt="My Tech Blog logo" class="side-projects-icon" /> My Tech Blog
 
 <code>Static Site Generator</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
