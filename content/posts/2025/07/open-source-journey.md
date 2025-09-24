@@ -5,6 +5,10 @@ date: 2025-07-30
 tags:
   - SoftwareEngineering
   - HomeAutomation
+cover:
+  image: "posts/2025/07/open-source-journey.png"
+  alt: "Journey"
+  caption: "My long journey of contributing to open source"
 ---
 This month, I am excited to share that I've officially become a code owner for the [Home Assistant Telegram integration](https://www.home-assistant.io/integrations/telegram_bot/).
 In this post, I will be sharing my journey on how I went from being a user to an active maintainer.

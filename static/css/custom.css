@@ -3,3 +3,7 @@
     display: inline;
     margin: 0px 0px -3px 0px !important;
 }
+
+.post-content p {
+    text-align: justify;
+}

@@ -1,5 +1,5 @@
 ---
-title: "I built a tool to convert PDF files to CSV - PDF DataTable"
+title: "I've built a tool to convert PDF files to CSV - PDF DataTable"
 summary: "The development process behind PDF DataTable"
 date: 2025-04-28
 tags:
