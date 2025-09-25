@@ -8,14 +8,24 @@ It's a little bare at the moment since I'm still in the midst of filling up this
 
 ---
 
+## Agentic Expense Tracking Workflow
+
+<code>JavaScript</code>
+
+A low-code solution based on workflow automation and AI agent for processing, classifying and importing financial transactions (funds transfers, credit card charges, and other forms of cashless payments) into an expense tracker.
+
+[📖 Blog Post](/posts/2025/07/open-source-journey/)
+
 ## <img src="telegram-icon.png" alt="Telegram logo" class="side-projects-icon" /> Home Assistant Telegram Integration
 
 <code>Home Automation</code> <code>Python</code>
 
-Current code owner and active maintainer of the Telegram integration.
+Current code owner and active maintainer of the Telegram integration for [Home Assistant](https://www.home-assistant.io/) (I am not affiliated with Home Assistant).
 
-I am not affiliated with [Home Assistant](https://www.home-assistant.io/) and neither did I create this integration.
-I am just one of the contributors to the project.
+Full list of contributions: [Merged PRs](https://github.com/home-assistant/core/pulls?q=+is%3Apr+author%3Ahanwg+is%3Amerged)
+
+Milestones:
+- [Home Assistant 2025 July Release](https://www.home-assistant.io/blog/2025/07/02/release-20257/#integration-quality-scale-achievements) - Achieved Bronze on the [integration quality scale](https://www.home-assistant.io/docs/quality_scale/)
 
 [🌐 Website](https://www.home-assistant.io/integrations/telegram_bot/) | [📄 GitHub Repo](https://github.com/hanwg/core) | [📖 Blog Post](/posts/2025/07/open-source-journey/)
 
@@ -45,7 +55,7 @@ I used the React-PDF library to render PDFs to allow me to select elements so th
 
 ## <img src="blog-icon.png" alt="My Tech Blog logo" class="side-projects-icon" /> My Tech Blog
 
-<code>Static Site Generator</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
 In early 2025, I took the plunge and started this blog.
 I already had a personal wiki based on [BookStack](https://www.bookstackapp.com/) which I created a long time back, but I wanted to create a different space to share my passions, expertise and thoughts.
