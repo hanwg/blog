@@ -29,7 +29,7 @@ If you like to see some samples of AI art that I generated on my PC, head over t
 1. Go to https://github.com/comfyanonymous/ComfyUI/releases.
 2. Under the **Assets** of the latest version, download the `ComfyUI_windows_portable_nvidia.7z` file.
 3. Extract the downloaded file. You should have the `ComfyUI_windows_portable` folder which contains the installation of ComfyUI.
-4. Start ComfyUI by running `ComfyUI_windows_portable\run_nvidia_gpu.bat` (if you have a NVIDIA GPU) or `ComfyUI_windows_portable\run_cpu.bat`. You should see a console window popup and your browser navigating to `http://127.0.0.1:8188/`. This is the web UI of ComfyUI.
+4. Start ComfyUI by running `ComfyUI_windows_portable\run_nvidia_gpu.bat` (if you have an NVIDIA GPU) or `ComfyUI_windows_portable\run_cpu.bat`. You should see a console window popup and your browser navigating to `http://127.0.0.1:8188/`. This is the web UI of ComfyUI.
 
 ## Your first workflow
 

@@ -82,9 +82,9 @@ The flow:
 4. Get the attachment (password-protected PDF) from the message.
 5. Save the PDF to disk by converting the attachment from Base64 String to binary file.
 6. Invoke the Stirling PDF `remove-password` REST API with the binary file to unlock the PDF.
-5. Label and tag (date along with other metadata such as bank name and account number) the unlocked PDF and upload it to Paperless-ngx for archival and processing.
+7. Label and tag (date along with other metadata such as bank name and account number) the unlocked PDF and upload it to Paperless-ngx for archival and processing.
     - Paperless-ngx extracts the text content from the PDF. This happens in the background within Paperless-ngx and is not part of the workflow.
-6. Trigger the `Process PDF` workflow.
+8. Trigger the `Process PDF` workflow.
 
 ### The Process PDF flow
 

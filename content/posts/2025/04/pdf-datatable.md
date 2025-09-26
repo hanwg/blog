@@ -42,7 +42,7 @@ With real-time previews as a key consideration, the flow of the new app is as fo
 
 The UI needs to allow the user specify the relevant content on the PDF.
 I thought about a few possible ideas but eventually settled on text selection.
-(They aren't mutually exclusive but it will be too much effort to implement all of them)
+(They aren't mutually exclusive, but it will be too much effort to implement all of them)
 
 ### Lasso Tool
 
@@ -80,11 +80,11 @@ This approach is described as follows:
     - If it doesn't overlap with any of the intervals, exclude it 
     - Determine which interval the element overlaps with and assign it to the respective column
 
-This approach is more complex to develop but it is more user-friendly compared to regex.
+This approach is more complex to develop, but it is more user-friendly compared to regex.
 
 ## Other Considerations
 
-My budget for this app is $0 so I decided to run the app entirely on [GitHub Pages](https://pages.github.com/).
+My budget for this app is $0, so I decided to run the app entirely on [GitHub Pages](https://pages.github.com/).
 There would be no servers for backend processing so all the logic will run on the user's device.
 
 ## Building the App
@@ -131,7 +131,7 @@ A few important parameters used in the above snippet:
 - `onPassword`: Event handler to prompt user for the password
 - `onRenderTextLayerSuccess`: Event handler to invoke after page rendering is completed
 
-The rendering process is done by the library and it involves creating and inserting `span` elements into the HTML DOM.
+The rendering process is done by the library, and it involves creating and inserting `span` elements into the HTML DOM.
 Each `span` element corresponds to a text element from the PDF and has the following properties:
 - `innerHTML`: the text content
 - `boundingClientRect`: a rectangle describing the position and size of the element using the `x`, `y`, `width` and `height` properties.

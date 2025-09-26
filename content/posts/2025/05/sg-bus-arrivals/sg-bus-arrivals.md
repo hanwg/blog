@@ -15,7 +15,7 @@ Today, I will be sharing my journey of building SG Bus Arrivals.
 
 When I first moved to my new house in 2023, bus services were few and far in between.
 Missing a bus would mean waiting for at least 20-30 minutes for the next bus.
-There were already transport apps such as [MyTransport.SG](https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg) but I wanted to have a more seamless experience than launching an app and navigating through menus.  
+There were already transport apps such as [MyTransport.SG](https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg), but I wanted to have a more seamless experience than launching an app and navigating through menus.  
 
 Hence, I set out to develop an automation to send notification for bus arrivals when I'm about to leave my home.
 Thankfully, LTA provides access to a wealth of public transport data, including real-time bus arrivals via the [LTA DataMall Public Transport API](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html#Public%20Transport).
@@ -54,7 +54,7 @@ I used Gen AI to generate the base logo.
 Next, I did a little touch-up using [GIMP](https://www.gimp.org/) to remove noise and change color palettes to match the colors used by buses and bus stops in Singapore.
 
 The final step is to create a pull request (PR) to submit my logos to the [Home Assistant Brands](https://github.com/home-assistant/brands) GitHub repository.
-It takes a long time to get approval so I continued with the development of my integration while waiting for my PR to be merged.
+It takes a long time to get approval, so I continued with the development of my integration while waiting for my PR to be merged.
 
 Here's the logo:<br/>
 ![SG Bus Arrivals logo](../logo.png)
@@ -94,7 +94,7 @@ For folks who don't like interval polling, this is an alternative which provides
 
 ### Translations
 
-Singapore is a multilingual society and it would benefit the integration to have all the main languages (English, Chinese, Malay, Tamil) supported.
+Singapore is a multilingual society, and it would benefit the integration to have all the main languages (English, Chinese, Malay, Tamil) supported.
 Besides, it doesn't take a lot of effort since Home Assistant already has a translation framework.
 
 I only included English translations since I am focusing on the core functionalities of the integration.
