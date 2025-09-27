@@ -8,7 +8,7 @@ It's a little bare at the moment since I'm still in the midst of filling up this
 
 ---
 
-## Agentic Expense Tracking Workflow
+## <img src="n8n-icon.png" alt="N8N logo" class="side-projects-icon" /> Agentic Expense Tracking Workflow
 
 <code>JavaScript</code>
 

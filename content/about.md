@@ -25,11 +25,11 @@ The following is a list of my core skills (not an exhaustive list) which I have 
 
 ## Work Experience
 
-|                                                      |                                                                         |
-|------------------------------------------------------|-------------------------------------------------------------------------|
-| ![JP Morgan logo](work-experience/jpmorgan-logo.jpg) | **JP Morgan Chase**<br>Software Engineer III<br>February 2022 - Present |
+|                                                      |                                                                            |
+|------------------------------------------------------|----------------------------------------------------------------------------|
+| ![JP Morgan logo](work-experience/jpmorgan-logo.jpg) | **JP Morgan Chase**<br>Software Engineer III<br>February 2022 - April 2025 |
 
-Presently a full stack developer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various line of businesses in the bank.
+Full stack developer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various line of businesses in the bank.
 
 Key achievements:
 - Architected complex solutions consisting of components such as message queues, microservices, NoSQL database and third-party platforms.
@@ -78,7 +78,7 @@ Key achievements:
 
 ## Certifications
 
-It's not an exhaustive list, I'm only listing the high level of certification obtained.
+It's not an exhaustive list, but some of the key certifications relevant to my career interest.
 
 |                                                                                            |          |                                                                                                                        |                |
 |--------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------|----------------|
