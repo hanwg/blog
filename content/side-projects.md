@@ -18,13 +18,16 @@ A low-code solution based on workflow automation and AI agent for processing, cl
 
 ## <img src="telegram-icon.png" alt="Telegram logo" class="side-projects-icon" /> Home Assistant Telegram Integration
 
-<code>Home Automation</code> <code>Python</code>
+<code>Home Automation</code> <code>Python</code> <code>JavaScript</code>
 
 Current code owner and active maintainer of the Telegram integration for [Home Assistant](https://www.home-assistant.io/) (I am not affiliated with Home Assistant).
 
-Full list of contributions: [Merged PRs](https://github.com/home-assistant/core/pulls?q=+is%3Apr+author%3Ahanwg+is%3Amerged)
+Full list of accepted contributions:
+- [Core PRs](https://github.com/home-assistant/core/pulls?q=+is%3Apr+author%3Ahanwg+is%3Amerged)
+- [Frontend PRs](https://github.com/home-assistant/frontend/pulls?q=+is%3Apr+author%3Ahanwg+is%3Amerged)
+- [Documentation PRs](https://github.com/home-assistant/home-assistant.io/pulls?q=+is%3Apr+author%3Ahanwg+is%3Amerged)
 
-Milestones:
+Milestones and achievements:
 - [Home Assistant 2025 July Release](https://www.home-assistant.io/blog/2025/07/02/release-20257/#integration-quality-scale-achievements) - Achieved Bronze on the [integration quality scale](https://www.home-assistant.io/docs/quality_scale/)
 
 [🌐 Website](https://www.home-assistant.io/integrations/telegram_bot/) | [📄 GitHub Repo](https://github.com/hanwg/core) | [📖 Blog Post](/posts/2025/07/open-source-journey/)

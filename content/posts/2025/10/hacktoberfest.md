@@ -45,3 +45,17 @@ With a strong knowledge of the project's contribution guidelines and codebase, I
 By the 2nd week of October, I had managed to accumulate 6 accepted PRs.
 
 Now that I've reached my Hacktoberfest goal, I'm back to working on feature enhancements, some of which have been in-progress even before Hacktoberfest began. These are much larger in scope and typically take a few weeks or even months to complete.
+
+## Addendum: A Contribution Guide
+
+Itching to start contributing? Here's a step-by-step guide:
+
+1. **Find a project.** Search for actively maintained projects with issues labelled `good first issue` or `hacktoberfest`. To minimize the learning curve, you might want to narrow down your search to projects that uses a tech stack that you are familiar with.
+2. **Review the project's contribution guidelines.** Study the project's `README.md`, `CONTRIBUTING.md` or Wiki to understand the project's coding style, naming conventions and PR submission processes to ensure that your PR meets the project's standards to avoid unnecessary rework.
+3. **Fork the project's repository**. This creates a new independent copy of the project's repository under your account.
+4. **Clone your fork.** This creates a local copy of your fork on your machine.
+5. **Add an upstream to the original project.** This allows you to pull updates from the original repository into your fork and also submit PRs.
+6. **Develop and commit your changes.** Use clear and descriptive commit messages to provide the context of the change.
+7. **Push your changes.** This syncs your commits from your machine to GitHub.
+8. **Create a new PR.** Go to your fork in GitHub and create the PR. Ensure that your PR description explains the changes (e.g. the what-why-how) to help maintainers with the review.
+9. **Wait for your PR to be reviewed.** Patience is important here as maintainers typically have other PRs to review too.
