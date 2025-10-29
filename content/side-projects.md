@@ -28,7 +28,8 @@ Full list of accepted contributions:
 - [Documentation PRs](https://github.com/home-assistant/home-assistant.io/pulls?q=+is%3Apr+author%3Ahanwg+is%3Amerged)
 
 Milestones and achievements:
-- [Home Assistant 2025 July Release](https://www.home-assistant.io/blog/2025/07/02/release-20257/#integration-quality-scale-achievements) - Achieved Bronze on the [integration quality scale](https://www.home-assistant.io/docs/quality_scale/)
+- 2025 July: Achieved Bronze on the [integration quality scale](https://www.home-assistant.io/docs/quality_scale/) in the [Home Assistant 2025 July Release](https://www.home-assistant.io/blog/2025/07/02/release-20257/#integration-quality-scale-achievements)
+- 2025 October: Hacktoberfest 2025 Super Contributor
 
 [🌐 Website](https://www.home-assistant.io/integrations/telegram_bot/) | [📄 GitHub Repo](https://github.com/hanwg/core) | [📖 Blog Post](/posts/2025/07/open-source-journey/)
 
