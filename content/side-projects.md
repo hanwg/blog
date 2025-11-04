@@ -16,20 +16,21 @@ A low-code solution based on workflow automation and AI agent for processing, cl
 
 [📖 Blog Post](/posts/2025/07/open-source-journey/)
 
-## <img src="telegram-icon.png" alt="Telegram logo" class="side-projects-icon" /> Home Assistant Telegram Integration
+## <img src="telegram-icon.png" alt="Telegram logo" class="side-projects-icon" /> Home Assistant Telegram Bot Integration
 
 <code>Home Automation</code> <code>Python</code> <code>JavaScript</code>
 
-Current code owner and active maintainer of the Telegram integration for [Home Assistant](https://www.home-assistant.io/) (I am not affiliated with Home Assistant).
+*Disclaimer: I am not affiliated with Home Assistant.*
 
-Full list of accepted contributions:
-- [Core PRs](https://github.com/home-assistant/core/pulls?q=+is%3Apr+author%3Ahanwg+is%3Amerged)
-- [Frontend PRs](https://github.com/home-assistant/frontend/pulls?q=+is%3Apr+author%3Ahanwg+is%3Amerged)
-- [Documentation PRs](https://github.com/home-assistant/home-assistant.io/pulls?q=+is%3Apr+author%3Ahanwg+is%3Amerged)
+Current code owner and active maintainer of the Telegram bot integration for [Home Assistant](https://www.home-assistant.io/).
+The integration is used for sending and receiving messages from a [Telegram bot account](https://core.telegram.org/bots).
+This allows users to receive notifications and control their smart home via Telegram.
 
 Milestones and achievements:
 - 2025 July: Achieved Bronze on the [integration quality scale](https://www.home-assistant.io/docs/quality_scale/) in the [Home Assistant 2025 July Release](https://www.home-assistant.io/blog/2025/07/02/release-20257/#integration-quality-scale-achievements)
 - 2025 October: Hacktoberfest 2025 Super Contributor
+
+Check my GitHub profile for list of contributions: [@hanwg](https://github.com/hanwg)
 
 [🌐 Website](https://www.home-assistant.io/integrations/telegram_bot/) | [📄 GitHub Repo](https://github.com/hanwg/core) | [📖 Blog Post](/posts/2025/07/open-source-journey/)
 
@@ -40,7 +41,8 @@ Milestones and achievements:
 <code>Home Automation</code> <code>Python</code>
 
 SG Bus Arrivals is a custom integration for [Home Assistant](https://www.home-assistant.io/).
-It uses the [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en.html) APIs to fetch data on public transport services. 
+It uses the [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en.html) APIs to fetch data on public transport services.
+The data can then be used in automations to display bus arrival times or trigger notifications based on geo-proximity or presence.
 
 [📄 GitHub Repo](https://github.com/hanwg/sg-bus-arrivals) | [📖 Blog Post](/posts/2025/05/sg-bus-arrivals/sg-bus-arrivals/)
 
