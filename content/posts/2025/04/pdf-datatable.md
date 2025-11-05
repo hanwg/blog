@@ -6,7 +6,7 @@ tags:
   - SoftwareEngineering
 ---
 I launched [PDF DataTable](https://pdf-datatable.hanwg.top) on 21 April 2025.
-It was my latest personal project and I thought it would be interesting to share the development process that went into building the app.
+It was my latest personal project, and I thought it would be interesting to share the development process that went into building the app.
 
 ## Why Did I Build PDF DataTable?
 
@@ -14,7 +14,7 @@ I have an aversion regarding the use of free online tools.
 
 The adage, "if you aren't paying for the product, you are the product" perfectly describes my concern regarding data privacy that my data will be harvested and sold to marketing companies (or worse, scammers).
 
-Besides the privacy concern, I wanted to refresh my frontend development skills and also experiment with a different approach in handling PDF conversions.
+Besides the privacy concern, I wanted to refresh my frontend development skills and also experiment with a different approach to handling PDF conversions.
 
 ## PDF Conversions - The Typical Way
 
@@ -40,9 +40,9 @@ With real-time previews as a key consideration, the flow of the new app is as fo
 
 ## Designing the UI
 
-The UI needs to allow the user specify the relevant content on the PDF.
+The UI needs to allow the user to specify the relevant content on the PDF.
 I thought about a few possible ideas but eventually settled on text selection.
-(They aren't mutually exclusive, but it will be too much effort to implement all of them)
+(They aren't mutually exclusive, but it will be too much effort to implement all of them.)
 
 ### Lasso Tool
 
@@ -74,8 +74,8 @@ This works so it might be a possible feature in the future.
 This approach is described as follows:
 1) The user selects a piece of text from the PDF render.
 2) Anything that comes before the selection is excluded.
-3) Elements that appear on the same row as the selection forms the header or the first record of the CSV.
-4) Compute the intervals of this row. The intervals are boundaries that determines the columns of the CSV. 
+3) Elements that appear on the same row as the selection form the header or the first record of the CSV.
+4) Compute the intervals of this row. The intervals are boundaries that determine the columns of the CSV. 
 5) Iterate through all elements in the PDF. For each element, 
     - If it doesn't overlap with any of the intervals, exclude it 
     - Determine which interval the element overlaps with and assign it to the respective column
@@ -85,7 +85,7 @@ This approach is more complex to develop, but it is more user-friendly compared 
 ## Other Considerations
 
 My budget for this app is $0, so I decided to run the app entirely on [GitHub Pages](https://pages.github.com/).
-There would be no servers for backend processing so all the logic will run on the user's device.
+There would be no servers for backend processing, so all the logic will run on the user's device.
 
 ## Building the App
 
@@ -167,4 +167,4 @@ function downloadCsv() {
 A PDF file is like a random bag of text/images elements. Sometimes, the elements overlap each other, sometimes they are rotated, scaled or even sheared.
 
 My initial implementation did not account for such transformations and resulted in missing text elements and elements appearing in the wrong order in my CSV output.
-The logic was way messier and complex than I would have desired but overall, I was happy that I managed to release an app that worked for most of my use cases. 
+The logic was way messier and complex than I would have desired, but overall, I was happy that I managed to release an app that worked for most of my use cases. 

@@ -12,7 +12,7 @@ Unlike other tutorials, we are just going to jump into the fun part of generatin
 
 **What is ComfyUI?**  
 ComfyUI is a free web-based app for generating images/video/audio using workflows.
-Workflows consists of nodes (processing steps) and edges ("lines") connecting nodes via their inputs/outputs.
+Workflows consist of nodes (processing steps) and edges ("lines") connecting nodes via their inputs/outputs.
 An over simplified explanation:
 ![ComfyUI workflow explanation](../workflow.svg)
 

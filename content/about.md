@@ -7,7 +7,7 @@ I'm a combination of software architect, developer and systems engineer.
 Throughout my career of more than 15 years, I've designed software systems, written code in various programming languages and maintained IT infrastructures.
 Like everyone else, I started with basic programming skills that I learnt in school.
 With an inquisitive mind and a keen interest in technology, I started working on personal projects to help me develop my skills.
-This blog serves as journal of my learning experiences.
+This blog serves as a journal of my learning experiences.
 
 ## Core Skills
 The following is a list of my core skills (not an exhaustive list) which I have been practicing for the past few years:
@@ -29,7 +29,7 @@ The following is a list of my core skills (not an exhaustive list) which I have 
 |------------------------------------------------------|----------------------------------------------------------------------------|
 | ![JP Morgan logo](work-experience/jpmorgan-logo.jpg) | **JP Morgan Chase**<br>Software Engineer III<br>February 2022 - April 2025 |
 
-Full stack developer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various line of businesses in the bank.
+Full stack developer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various lines of businesses in the bank.
 
 Key achievements:
 - Architected complex solutions consisting of components such as message queues, microservices, NoSQL database and third-party platforms.
@@ -42,9 +42,9 @@ Key achievements:
 
 |                                                     |                                                                         |
 |-----------------------------------------------------|-------------------------------------------------------------------------|
-| ![Deloitte logo](work-experience/deloitte-logo.jpg) | **Deloitte**<br>Manager<br>June 2018 - Feburary 2022 (3 years 9 months) |
+| ![Deloitte logo](work-experience/deloitte-logo.jpg) | **Deloitte**<br>Manager<br>June 2018 - February 2022 (3 years 9 months) |
 
-Software engineering manager at a consulting firm responsible for delivering IAM cyber security projects for the banking sector.
+Software engineering manager at a consulting firm responsible for delivering IAM cybersecurity projects for the banking sector.
 
 Key achievements:
 - Led a team of 4-6 engineers as technical lead to deliver a workforce IAM platform for a bank which served the entire organization across multiple geographic regions.
@@ -68,10 +68,10 @@ Key achievements:
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------|
 | ![ST logo](work-experience/st-logo.jpg) | **ST Electronics (Info-Software)**<br>Software Engineer<br>July 2009 - May 2018 (5 years 11 months) |
 
-Developer responsible for building and maintaining systems for government agencies including mission-critical systems.
+Developer responsible for building and maintaining systems for government agencies, including mission-critical systems.
 
 Key achievements:
-- Identified and resolved application performance bottlenecks by optimizing SQL queries and finetuning the database through the use of indexes and materialized views.
+- Identified and resolved application performance bottlenecks by optimizing SQL queries and fine-tuning the database through the use of indexes and materialized views.
 - Migrated centralized Source Control Management (SCM) to a distributed SCM (i.e. Git) achieving improved collaboration and reducing conflicts in code baselines for engineers working at various sites.
 - Completed full SDLC lifecycles and successfully launched multiple projects.
 

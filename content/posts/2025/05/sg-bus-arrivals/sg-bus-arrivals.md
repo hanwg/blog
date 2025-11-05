@@ -79,7 +79,7 @@ The data update coordinator is a component of the integration responsible for us
 
 ### Sensors
 
-Sensors are entities which displays the bus arrival details such as estimated arrival times, bus type (Single Deck / Double Deck), etc.
+Sensors are entities which display the bus arrival details such as estimated arrival times, bus type (Single Deck / Double Deck), etc.
 
 I also used dynamic icons which changes based on the sensor state.
 For example, if the bus is wheelchair accessible, the sensor will have a wheelchair icon.
@@ -113,12 +113,12 @@ Sample dashboard:
 
 ### Automation
 
-Send / update push notification of bus arrivals when I leave home or when I am at a specific bus stops.
+Send / update push notification of bus arrivals when I leave home or when I am at a specific bus stop.
 No more fiddling with apps!
 
 ## Conclusion
 
 Building SG Bus Arrivals has been an enjoyable and rewarding experience.
-It's a practical addition to my smart home and I hope others will find it useful too!
+It's a practical addition to my smart home, and I hope others will find it useful too!
 
 You can find more details about the project in my GitHub repository: https://github.com/hanwg/sg-bus-arrivals

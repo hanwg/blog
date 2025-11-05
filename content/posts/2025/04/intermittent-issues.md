@@ -15,7 +15,7 @@ To help you troubleshoot such elusive issues, I've compiled a list of top reason
 ## The Perils of Date and Time
 
 A surprising number of bugs stem from improper handling of date and time operations.
-If your application deal with workflows, scheduling and reporting, you might want to keep an eye out for this.
+If your application deals with workflows, scheduling and reporting, you might want to keep an eye out for this.
 
 Symptoms:
 - Incorrect timezone conversions
@@ -27,7 +27,7 @@ How to avoid:
 - Use date-time libraries
 - Implement rigorous date-time validation
 - Standardize timezones to UTC and only convert to local timezone for display purposes
-- Always use 4-digits year format to avoid ambiguity in 2-digit representations
+- Always use 4-digit year format to avoid ambiguity in 2-digit representations
 
 ## Race Conditions
 
@@ -82,7 +82,7 @@ Symptoms:
 How to avoid:
 - Configure `ulimits` to increase the maximum number of allowed file handles
 - Implement proper resource management to close network connections or file handles when they are no longer needed
-- For systems dealing with large number of concurrent connections, consider scaling with a load balancer to distribute the load across multiple instances
+- For systems dealing with a large number of concurrent connections, consider scaling with a load balancer to distribute the load across multiple instances
 
-Understanding these potential pitfalls are crucial for developers to build a stable and reliable system.
+Understanding these potential pitfalls is crucial for developers to build a stable and reliable system.
 Combined with robust testing and proactive monitoring, we can minimize intermittent failures leading to a smoother user experience and lesser headaches for the technical teams.

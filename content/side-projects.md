@@ -12,7 +12,7 @@ It's a little bare at the moment since I'm still in the midst of filling up this
 
 <code>JavaScript</code>
 
-A low-code solution based on workflow automation and AI agent for processing, classifying and importing financial transactions (funds transfers, credit card charges, and other forms of cashless payments) into an expense tracker.
+A low-code solution based on workflow automation and AI agent for processing, classifying and importing financial transactions (fund transfers, credit card charges, and other forms of cashless payments) into an expense tracker.
 
 [📖 Blog Post](/posts/2025/07/open-source-journey/)
 

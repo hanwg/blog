@@ -48,11 +48,11 @@ Armed with these newfound knowledge, I began working on my first pull request.
 ## The First Pull Request (PR)
 
 My first PR was driven by a desire to simplify the Telegram integration's configuration.
-Back then, the integration could only be configured using YAML and every change I made required a reboot.
-This was disruptive especially when I was building and testing automations with different configurations.
+Back then, the integration could only be configured using YAML, and every change I made required a reboot.
+This was disruptive, especially when I was building and testing automations with different configurations.
 
 Hence, I decided to create a User Interface (UI) for configuring the integration.
-This not only allowed on-the-fly reload of configuration changes but also eliminated configuration errors which was common when editing YAML files.
+This not only allowed on-the-fly reload of configuration changes but also eliminated configuration errors, which was common when editing YAML files.
 After a week of hard work, I finally completed my changes and submitted my PR.
 
 A week later, someone from the Home Assistant core team reviewed my PR.
@@ -72,7 +72,7 @@ Weeks later, my PR passed the bar was finally approved!
 ## Building on Progress
 
 After my first PR, I had acquired a firm grasp of the development process, a strong familiarity with python and a deeper understanding of the Telegram functionalities.
-Responses from the Home Assistant community was encouraging which motivated me to continue to contribute in various ways such as:
+Responses from the Home Assistant community was encouraging which motivated me to continue to contribute in various ways, such as:
 - Implementing new features
 - Bug fixes
 - Improving code quality

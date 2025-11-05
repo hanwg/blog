@@ -22,7 +22,7 @@ WebP is a modern image format developed by Google in 2010.
 
 <br/>
 
-I've converted my images to WebP for my blog and here's the results for my blog's landing page:
+I've converted my images to WebP for my blog, and here's the results for my blog's landing page:
 - Before WebP: 8MB in 220ms
 - After WebP: 1.2MB in 180ms
 

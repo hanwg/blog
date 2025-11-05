@@ -7,16 +7,16 @@ tags:
 ---
 I've created a new personal website: https://hanwg.top  
 
-My mentor/coach said I should have a presence online so here it is.
+My mentor/coach said I should have a presence online, so here it is.
 It's quite barren at the moment since I only started posting a few days ago, but hopefully it will be filled with tech stories after a few years.
 
-I didn't use any of the mainstream platforms such as Medium or WordPress since ads suck and I don't want to pay for any subscription. Hence, I created my site using the following free tools:
+I didn't use any of the mainstream platforms such as Medium or WordPress since ads suck, and I don't want to pay for any subscription. Hence, I created my site using the following free tools:
 - [GitHub Pages](https://pages.github.com/) - for hosting static web content.
-- [Hugo](https://gohugo.io/) - a static site generator which transforms markdown files into web pages.
+- [Hugo](https://gohugo.io/) - a static site generator which transforms Markdown files into web pages.
 
 <br>
 
-I won't write a tutorial since there are already many guides out there but here's the gist of it (I'm using Hugo here, but you can use any static site generator):
+I won't write a tutorial since there are already many guides out there, but here's the gist of it (I'm using Hugo here, but you can use any static site generator):
 1) Install Hugo and Git on your PC.
 2) Create a new GitHub public repository.
 3) Note down your new website's URL in the GitHub repository settings.

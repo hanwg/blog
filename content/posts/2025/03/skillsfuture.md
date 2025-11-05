@@ -10,10 +10,10 @@ With credits expiring at the end of 2025, this is our last opportunity to use th
 
 Here's my opinionated list of the most important certifications for the IT industry.
 - Scrum / Agile
-- ITIL
+- Information Technology Infrastructure Library (ITIL)
 - CompTIA
 - Any of Azure/GCP/AWS cloud certifications
 
 <br>
 
-What are you thoughts?
+What are your thoughts?

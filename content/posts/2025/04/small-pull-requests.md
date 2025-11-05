@@ -18,17 +18,17 @@ There's a better way to do code reviews - small PRs.
 ## Why we should embrace small PRs
 
 - Easier and faster to review:
-  The smaller scope and more focused changes helps to avoid cognitive overload.
+  The smaller scope and more focused changes help to avoid cognitive overload.
   It's easier for reviewers to understand the developer's intent and provide feedback.
   On the contrary, large PRs tend to require more clarifications which results in reduced productivity. 
-- Reduces merge conflicts: By nature, the small changeset means less likelihood of conflicts with other PRs.
+- Reduces merge conflicts: By nature, the small changes means less likelihood of conflicts with other PRs.
 - It's easier to catch bugs (e.g. a misunderstood requirement which was incorrectly implemented).
-- Better collaboration: Bite-sized chunks are easier to digest and allows developers to learn from each other.
+- Better collaboration: Bite-sized chunks are easier to digest and allow developers to learn from each other.
 
 And with small PRs, it should lead to faster development cycles, high quality of code and happier engineers.
 But... how do we keep PRs small? Here are some considerations:
 - Avoid addressing multiple issues/features in a single PR.
 - Assess if we can break down an issues/feature into small ones.
-- Avoid the mindset of "only fully completed features that delivers value are allowed to be merged". If a feature isn't complete, implement feature flags to disable it. In the meantime, we should incrementally merge changes. 
+- Avoid the mindset of "only fully completed features that deliver value are allowed to be merged". If a feature isn't complete, implement feature flags to disable it. In the meantime, we should incrementally merge changes. 
 
 Keep your PRs small!
