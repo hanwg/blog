@@ -62,12 +62,12 @@ I received extensive feedback which required a ton of rework and new changes suc
 - Refactoring to maintain code quality
 - Handling migration and backwards compatibility
 - Registering an issue to inform user of the YAML deprecation
-- General code improvements (The development was done in python which wasn't my main programming language)
+- General code improvements (The development was done in python, which wasn't my main programming language)
 
 Despite the challenges, I soldiered on and incorporated all the feedback I've received to refine the PR.
 Weeks later, my PR passed the bar was finally approved!
 
-*A big thank-you to my PR reviewer Martin Hjelmare who have been supportive and provided much of the valuable feedback and also to the many other volunteers who have also contributed to the PR via other aspects such as testing and translations.*
+*A big thank-you to my PR reviewer Martin Hjelmare, who has been supportive and provided much of the valuable feedback and also to the many other volunteers who have also contributed to the PR via other aspects such as testing and translations.*
 
 ## Building on Progress
 
@@ -86,7 +86,7 @@ This has been a huge honor for me as it signifies trust and acknowledges my cont
 
 ## Final Thoughts
 
-My acceptance as code owner hasn't fundamentally change my involvement;
+My acceptance as code owner hasn't fundamentally changed my involvement;
 I'm still actively maintaining the Telegram integration and involved with the community.
 It's been a rewarding journey where I honed my skills and learned about the platform that I use daily.
 

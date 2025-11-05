@@ -22,8 +22,8 @@ I won't write a tutorial since there are already many guides out there but here'
 3) Note down your new website's URL in the GitHub repository settings.
 4) Create a new GitHub Action to build your site (Refer to Hugo documentation).
 5) Use Hugo to create a new site.
-6) Create new markdown (.md) files containing your content. It's a blog post for me, but it can be anything.
-7) Git push your changes to your GitHub repository.
+6) Create new Markdown (.md) files containing your content. It's a blog post for me, but it can be anything.
+7) Push your changes to your GitHub repository.
 8) Wait for GitHub Action to finish building your site.
 
 Repeat steps 6 and 8 whenever you want to publish new content.

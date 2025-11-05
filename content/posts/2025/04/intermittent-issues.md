@@ -10,7 +10,7 @@ cover:
   caption: "An unstable system and its inevitable demise"
 ---
 Ever experienced that frustrating moment where your application works perfectly but would randomly fail after running for a period of time?
-To help you troubleshoot such elusive issues, I've compiled a list of top reasons why you application is failing intermittently and how to handle them.  
+To help you troubleshoot such elusive issues, I've compiled a list of top reasons why your application is failing intermittently and how to handle them.  
 
 ## The Perils of Date and Time
 
@@ -32,7 +32,7 @@ How to avoid:
 ## Race Conditions
 
 In complex applications, multiple threads/processes might attempt to access and modify the same resource simultaneously.
-If not managed carefully, this can lead to unpredictable behaviour and intermittent issues which are difficult to reproduce. 
+If not managed carefully, this can lead to unpredictable behavior and intermittent issues which are difficult to reproduce. 
 
 Symptoms:
 - Corrupted state data occurring sporadically

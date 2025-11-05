@@ -167,4 +167,4 @@ function downloadCsv() {
 A PDF file is like a random bag of text/images elements. Sometimes, the elements overlap each other, sometimes they are rotated, scaled or even sheared.
 
 My initial implementation did not account for such transformations and resulted in missing text elements and elements appearing in the wrong order in my CSV output.
-The logic was way messier and complex than I would have desired but overall, I was happy that I manage to release an app that worked for most of my use cases. 
+The logic was way messier and complex than I would have desired but overall, I was happy that I managed to release an app that worked for most of my use cases. 

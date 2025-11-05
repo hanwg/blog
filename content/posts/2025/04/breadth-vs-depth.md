@@ -24,7 +24,7 @@ Software engineers constantly face a crucial question: Should I develop my knowl
 
 <br>
 
-Ultimately, it depends on your career aspirations and the needs of your organization. However, there a few considerations:
+Ultimately, it depends on your career aspirations and the needs of your organization. However, there are a few considerations:
 - Early career: Go breadth to discover your interests. Along the way, network with the people you meet (infra teams, database admins, ops, etc.).
 - Mid-career: Consider specializing in a few areas to build your niche.
 
