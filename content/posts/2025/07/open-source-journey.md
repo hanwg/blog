@@ -16,7 +16,7 @@ In this post, I will be sharing my journey on how I went from being a user to an
 For those who are unfamiliar, [Home Assistant (HA)](https://www.home-assistant.io/) is a free open source platform for managing and controlling smart home devices such as switches and lights.
 The Telegram integration is one of Home Assistant's most widely used integration under the Notifications category.
 
-*Side note: I am not affiliated with Home Assistant; I am just one of the many volunteers who contribute to the project.*
+*Side note: I am not affiliated with Home Assistant; I am just one of the many open-source developers who contribute to the project.*
 
 ## A User with a Problem
 
@@ -67,7 +67,8 @@ I received extensive feedback which required a ton of rework and new changes suc
 Despite the challenges, I soldiered on and incorporated all the feedback I've received to refine the PR.
 Weeks later, my PR passed the bar was finally approved!
 
-*A big thank-you to my PR reviewer Martin Hjelmare, who has been supportive and provided much of the valuable feedback and also to the many other volunteers who have also contributed to the PR via other aspects such as testing and translations.*
+*A big thank-you to my PR reviewer Martin Hjelmare, who has been supportive and provided much of the valuable feedback.
+I would also like to extend my thanks to the members of the HA community who have contributed to the PR via other aspects such as testing and translations.*
 
 ## Building on Progress
 

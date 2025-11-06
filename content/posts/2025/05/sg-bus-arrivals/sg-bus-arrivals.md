@@ -1,6 +1,6 @@
 ---
 title: "I built SG Bus Arrivals"
-summary: "A new home automation integration"
+summary: "An integration with public transport services for home automation"
 date: 2025-05-14
 tags:
   - HomeAutomation
