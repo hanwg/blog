@@ -50,6 +50,15 @@ After a brief period of waiting, I was finally awarded the Super Contributor bad
 
 Now that I've reached my Hacktoberfest goal, I'm back to working on feature enhancements, some of which have been in-progress even before Hacktoberfest began. These are much larger in scope and typically take a few weeks or even months to complete.
 
+<hr />
+
+**5 Nov update:**
+
+Thrilled to announce that I've received my Hacktoberfest T-shirt!
+Even better, most of my PRs made it to the [Home Assistant 2025.11 release](https://www.home-assistant.io/blog/2025/11/05/release-202511/) and one of my feature enhancements was highlighted in the release main page!
+
+![Hacktoberfest T-shirt](../hacktoberfest-tshirt.jpeg)
+
 ## Addendum: A Contribution Guide
 
 Itching to start contributing? Here's a step-by-step guide:
