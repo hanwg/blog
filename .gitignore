@@ -1,4 +1,7 @@
 .idea
+
+go.mod
+go.sum
 hugo.exe
 
 # ignore indexers
@@ -8,3 +11,4 @@ Thumbs.db
 # ignore Hugo generated files
 .hugo_build.lock
 public
+/resources/_gen/
