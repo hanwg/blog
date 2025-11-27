@@ -2,13 +2,12 @@
 
 # Hugo Blog
 
----
-
 This is the source for [Han Wuguang's Tech Blog](https://hanwg.top).
 
 ## Customizations
 
 Some minor customizations were done on the PaperMod theme:
+- `assets`
 - `layouts`
 - `static`
 
