@@ -1,18 +1,41 @@
 [![Deploy Hugo site to Pages](https://github.com/hanwg/blog/actions/workflows/hugo.yaml/badge.svg)](https://github.com/hanwg/blog/actions/workflows/hugo.yaml)
 
+# Hugo Blog
+
 ---
 
-# Building the site locally for testing
+This is the source for [Han Wuguang's Tech Blog](https://hanwg.top).
+
+## Customizations
+
+Some minor customizations were done on the PaperMod theme:
+- `layouts`
+- `static`
+
+## Installed Modules
+
+1) [hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions) - Adds callouts.
+2) [PaperMod](https://github.com/adityatelange/hugo-PaperMod) - The site's theme. Supports dark mode and search.
+3) [hugo-shortcode-gallery](https://github.com/mfg92/hugo-shortcode-gallery) - Adds shortcode for image gallery with thumbnails and fullscreen mode.
+
+---
+
+## Guides
+
+### How-To: Build the site locally for testing
+
+Pre-requisites: [Install Hugo](https://gohugo.io/installation/windows/)
 
 1) Run `.\hugo.exe server`.
 2) The local site is available at: https://localhost:1313/
 
-# Installed Modules
+### How-To: Add a new post
 
-1) [hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions) - Adds callouts.
-2) [PaperMod](https://github.com/adityatelange/hugo-PaperMod) - The site's theme.
+1) Create a new folder under `content/posts/YYYY/MM/TITLE`. This will be the [page bundle](https://gohugo.io/content-management/page-bundles/) for the new post.
+2) Create a new `index.md` file in the page bundle. This file contains the content of your new post.
+3) Build the site locally and test.
 
-# Updating Hugo and Modules
+### How-To: Update Hugo and modules
 
 To update Hugo,
 1) Go to https://github.com/gohugoio/hugo/releases to determine the target version.
@@ -20,9 +43,9 @@ To update Hugo,
 
 To update modules,
 1) Go to the module: `cd themes/MODULE_NAME`.
-2) Checkout the version that you want to use.
+2) Run `git pull` to update to the latest version.
 
-# Installing New Modules
+### How-To: Install new modules
 
 1) Run `git submobule add --depth=-1 MODULE_GITHUB_URL themes/MODULE_NAME`.
 2) Go to the module: `cd themes/MODULE_NAME`.
