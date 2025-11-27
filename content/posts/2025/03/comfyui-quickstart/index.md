@@ -14,7 +14,7 @@ Unlike other tutorials, we are just going to jump into the fun part of generatin
 ComfyUI is a free web-based app for generating images/video/audio using workflows.
 Workflows consist of nodes (processing steps) and edges ("lines") connecting nodes via their inputs/outputs.
 An over simplified explanation:
-![ComfyUI workflow explanation](../workflow.svg)
+![ComfyUI workflow explanation](workflow.svg)
 
 If you like to see some samples of AI art that I generated on my PC, head over to my post here: [Generating AI art](../../generating-ai-art/generating-ai-art/)
 
