@@ -5,7 +5,7 @@ date: 2025-11-06
 tags:
   - InfrastructureEngineering
 cover:
-   image: "posts/2025/11/building-a-home-lab-hardware.jpg"
+   image: "building-a-home-lab-hardware.jpg"
    alt: "Building a home lab - Hardware"
    caption: "Hardware essentials for building a home lab"
 ---

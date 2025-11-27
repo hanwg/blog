@@ -16,7 +16,7 @@ Workflows consist of nodes (processing steps) and edges ("lines") connecting nod
 An over simplified explanation:
 ![ComfyUI workflow explanation](workflow.svg)
 
-If you like to see some samples of AI art that I generated on my PC, head over to my post here: [Generating AI art](../../generating-ai-art/generating-ai-art/)
+If you like to see some samples of AI art that I generated on my PC, head over to my post here: [Generating AI art](../../../../posts/2025/03/generating-ai-art)
 
 ## What you need
 

@@ -22,4 +22,4 @@ Here are some samples that I generated:
 | ![Knight facing dragon](knight-dragon.webp)                          | **Prompt**<br>A knight in shining armor carrying a AK47 facing a black dragon. Bolts of lightning could be seen in the background.<br><br>**Model:** SD3.5 |
 | <img alt="Rabbit walking along street" src="rabbit-streets.webp" /> | **Prompt**<br>Long shot. An anthropomorphic rabbit wearing a trench coat walking along a dimly lit street<br><br>**Model:** Wan2.1                         |
 
-ComfyUI can be intimidating to new users, so I wrote a quickstart guide here: [ComfyUI Quickstart](../comfyui-quickstart/comfyui-quickstart)
+ComfyUI can be intimidating to new users, so I wrote a quickstart guide here: [ComfyUI Quickstart](../../../../posts/2025/03/comfyui-quickstart)

@@ -6,7 +6,7 @@ tags:
   - SoftwareEngineering
   - HomeAutomation
 cover:
-  image: "posts/2025/07/open-source-journey.png"
+  image: "open-source-journey.png"
   alt: "Journey"
   caption: "My long journey of contributing to open source"
 ---

@@ -6,7 +6,7 @@ tags:
   - SoftwareEngineering
   - AI
 cover:
-   image: "posts/2025/09/agentic-expense-tracking-workflow/agentic-expense-tracking-workflow.png"
+   image: "agentic-expense-tracking-workflow.png"
    alt: "Expense tracking"
    caption: "Expense Tracking"
 ---
@@ -32,7 +32,8 @@ In the following sections, I will be breaking down the agentic expense tracking 
 
 The purpose of the `Import Transaction` workflow is to import transactions into my expense tracker, Firefly.  
 
-![Import transaction workflow](../import-transaction-workflow.png)
+{{<gallery match="import-transaction-workflow.png" thumbnailResizeOptions="600x600 q100 Lanczos">}}
+<br />
 
 Pre-conditions:
 1. I perform a transaction (ATM withdrawal, credit card transaction or fund transfer).
@@ -71,9 +72,10 @@ This workflow is split into 2 parts:
 
 The purpose of the `Archive PDF` workflow is to extract the text content from the PDF email attachment which contains the statement of account.
 
-![Archive PDF workflow](../archive-pdf-workflow.png)
+{{<gallery match="archive-pdf-workflow.png" thumbnailResizeOptions="600x600 q100 Lanczos">}}
+<br />
 
-Pre-conditions: The bank sends email with an attachment containing the statement of account in a password-protected PDF.
+Pre-conditions: The bank sends an email with an attachment containing the statement of account in a password-protected PDF.
 
 The flow:
 1. The workflow beings when the `statement of account` email event is triggered.
@@ -91,7 +93,8 @@ The flow:
 The `Process PDF` workflow is similar to the `Import Transaction` workflow above.
 The `Import Transaction` workflow processes a single transaction from a transaction notification while the `Process PDF` workflow processes multiple transactions from the statement of account PDF.
 
-![Archive PDF workflow](../process-pdf-workflow.png)
+{{<gallery match="process-pdf-workflow.png" thumbnailResizeOptions="600x600 q100 Lanczos">}}
+<br />
 
 1. The workflow begins when triggered by the `Archive PDF` workflow.
 2. Invoke the Paperless-ngx `documents` REST API to fetch the unlocked PDF.

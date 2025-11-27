@@ -5,7 +5,7 @@ date: 2025-10-11
 tags:
   - SoftwareEngineering
 cover:
-   image: "posts/2025/10/hacktoberfest/hacktoberfest.jpg"
+   image: "hacktoberfest.jpg"
    alt: "Contributing to open source"
    caption: "Hacktoberfest 2025: Contributing to open source"
 ---
@@ -32,7 +32,7 @@ Participation is simple:
 
 ## My Hacktoberfest Contributions
 
-I'm a regular contributor to [Home Assistant](https://www.home-assistant.io/) (you can learn more about that here: [My Open Source Development Journey: From User to Code Owner](/posts/2025/07/open-source-journey)) so I was excited when I learned that it is a Hacktoberfest participating project.
+I'm a regular contributor to [Home Assistant](https://www.home-assistant.io/) (you can learn more about that here: [My Open Source Development Journey: From User to Code Owner](../../../../posts/2025/07/open-source-journey)) so I was excited when I learned that it is a Hacktoberfest participating project.
 
 I have been busy with my career transition recently (I left my banking job to join Big Tech), and there were a number of improvements and issues which have been lingering in my mind for a while.
 After a short planning session, I was ready to start work on my PRs:
@@ -46,7 +46,7 @@ By the 2nd week of October, I had managed to accumulate 6 accepted PRs.
 After a brief period of waiting, I was finally awarded the Super Contributor badge:
 |                                                 |                                                                                                |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------|
-| ![Super Contributor](../super-contributor.webp) | *Thanks to the Home Assistant community who helped with the PRs!*<br/><br/>Here's my [GitHub Activity for October 2025](https://github.com/hanwg?tab=overview&from=2025-10-01&to=2025-10-31) that helped me earn the badge!<br/><br/>Stats:<br/>Submitted 22 PRs across 4 repositories.<br/>Reviewed 10 PRs across 2 repositories. |
+| ![Super Contributor](super-contributor.webp) | *Thanks to the Home Assistant community who helped with the PRs!*<br/><br/>Here's my [GitHub Activity for October 2025](https://github.com/hanwg?tab=overview&from=2025-10-01&to=2025-10-31) that helped me earn the badge!<br/><br/>Stats:<br/>Submitted 22 PRs across 4 repositories.<br/>Reviewed 10 PRs across 2 repositories. |
 
 Now that I've reached my Hacktoberfest goal, I'm back to working on feature enhancements, some of which have been in-progress even before Hacktoberfest began. These are much larger in scope and typically take a few weeks or even months to complete.
 
@@ -57,7 +57,7 @@ Now that I've reached my Hacktoberfest goal, I'm back to working on feature enha
 Thrilled to announce that I've received my Hacktoberfest T-shirt!
 Even better, most of my PRs made it to the [Home Assistant 2025.11 release](https://www.home-assistant.io/blog/2025/11/05/release-202511/) and one of my feature enhancements was highlighted in the release main page!
 
-![Hacktoberfest T-shirt](../hacktoberfest-tshirt.jpeg)
+![Hacktoberfest T-shirt](hacktoberfest-tshirt.jpeg)
 
 ## Addendum: A Contribution Guide
 
