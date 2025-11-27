@@ -5,7 +5,7 @@ date: 2025-04-11
 tags:
   - SoftwareEngineering
 cover:
-  image: "posts/2025/04/working-effectively-with-legacy-code.webp"
+  image: "working-effectively-with-legacy-code.webp"
   alt: "working effectively with legacy code"
   caption: "Book cover: Working Effectively with Legacy Code"
 ---

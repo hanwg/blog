@@ -57,7 +57,7 @@ The final step is to create a pull request (PR) to submit my logos to the [Home 
 It takes a long time to get approval, so I continued with the development of my integration while waiting for my PR to be merged.
 
 Here's the logo:<br/>
-![SG Bus Arrivals logo](../logo.png)
+![SG Bus Arrivals logo](logo.png)
 
 ### LTA DataMall Client
 
@@ -109,7 +109,7 @@ I plan to mount a cheap tablet near the main door of my house so that I can glan
 Do I have time for a coffee or should I be running for the bus stop? This magic crystal ball will have the answers. 
 
 Sample dashboard:
-![dashboard](../dashboard.png)
+![dashboard](dashboard.png)
 
 ### Automation
 

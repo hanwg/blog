@@ -5,7 +5,7 @@ date: 2025-04-16
 tags:
   - SoftwareEngineering
 cover:
-  image: "posts/2025/04/small-pull-requests.webp"
+  image: "small-pull-requests.webp"
   alt: "small pull requests"
   caption: "How is it possible to review everything?"
 ---

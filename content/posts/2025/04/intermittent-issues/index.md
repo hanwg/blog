@@ -5,7 +5,7 @@ date: 2025-04-23
 tags:
   - SoftwareEngineering
 cover:
-  image: "posts/2025/04/intermittent-issues.webp"
+  image: "intermittent-issues.webp"
   alt: "intermittent issues"
   caption: "An unstable system and its inevitable demise"
 ---
