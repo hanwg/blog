@@ -1,5 +1,5 @@
 ---
-title: "Boost your Java development productivity with Lombok! 🚀"
+title: "🚀 Boost Your Java Development Productivity with Lombok"
 summary: "Improve productivity for your Java projects using Lombok"
 date: 2025-04-06
 tags:

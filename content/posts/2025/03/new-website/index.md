@@ -1,5 +1,5 @@
 ---
-title: "I've created a new personal website"
+title: "✒️ I've Created a New Personal Website"
 summary: "Starting a new website with Hugo and GitHub pages"
 date: 2025-03-28
 tags:

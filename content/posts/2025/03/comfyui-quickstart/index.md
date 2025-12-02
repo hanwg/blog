@@ -1,5 +1,5 @@
 ---
-title: "ComfyUI Quickstart"
+title: "🪄 ComfyUI Quickstart"
 summary: "A short guide to generating images/videos with AI using ComfyUI"
 date: 2025-03-30
 tags:

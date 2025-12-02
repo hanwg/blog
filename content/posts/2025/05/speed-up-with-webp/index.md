@@ -1,5 +1,5 @@
 ---
-title: "Speed up your website performance with WebP"
+title: "🏎️ Speed Up Your Website Performance with WebP"
 summary: "Use webp for static resources to reduce load times"
 date: 2025-05-04
 tags:

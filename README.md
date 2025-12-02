@@ -25,7 +25,7 @@ Some minor customizations were done on the PaperMod theme:
 
 Pre-requisites: [Install Hugo](https://gohugo.io/installation/windows/)
 
-1) Run `.\hugo.exe server --buildDrafts`.
+1) Run `.\hugo.exe server --buildDrafts --buildFuture`.
 2) The local site is available at: https://localhost:1313/
 
 ### How-To: Add a new post

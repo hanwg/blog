@@ -22,7 +22,7 @@ Here are some of my favourite home automations that I use and love.
 
 ---
 
-## Motion Activated Lighting
+## 💡 Motion Activated Lighting
 
 Let's start off with the most basic and most commonly used automation - motion activated lighting.
 
@@ -79,7 +79,7 @@ These 2 values are used to activate the automation.
 >   Too close, you will be in its blind spot; too far, you will be out of the detection zone.
 > 3. Continue to fine-tune by re-positioning your motion sensor or adjusting its sensitivity and detection interval for the best results.
 
-## Adaptive Lighting
+## 🛋️ Adaptive Lighting
 
 This quality-of-life improvement can be used in conjunction with other lighting automations such as the motion activated lighting mentioned above.
 Its main purpose is to set up warm lighting and dimming the light during nighttime to reduce eye strain and for a cozy ambience as I wind down for the day.
@@ -98,12 +98,14 @@ Its main purpose is to set up warm lighting and dimming the light during nightti
 2. Set color temperature of the light.
 
 > [!NOTE]
-> I'm not sharing the automation code here I am using HA's [Adaptive Lighting](https://github.com/basnijholt/adaptive-lighting) custom integration to configure my lights.
+> I don't have any automation code to share here since I am using HA's [Adaptive Lighting](https://github.com/basnijholt/adaptive-lighting) custom integration to set up this.
 
-## Vacuum The House When I'm Away
+## ❄️ Turn Off The Air Conditioner When Doors/Windows Are Open
 
-## Reminders When Washer Is Finished
+## 🧹 Vacuum The House When I'm Away, Dock When I'm Coming Home
 
-## Off Aircon When Doors/Windows Are Open
+## 🔊 Reminders When Washer Is Finished
 
-## NVR Notifications
+
+
+## 🚨 NVR Notifications
