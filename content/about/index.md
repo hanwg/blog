@@ -10,6 +10,7 @@ With an inquisitive mind and a keen interest in technology, I started working on
 This blog serves as a journal of my learning experiences.
 
 ## Core Skills
+
 The following is a list of my core skills (not an exhaustive list) which I have been practicing for the past few years:
 
 |                       |                                                                                               |
@@ -25,9 +26,17 @@ The following is a list of my core skills (not an exhaustive list) which I have 
 
 ## Work Experience
 
-|                                                      |                                                                            |
-|------------------------------------------------------|----------------------------------------------------------------------------|
-| ![JP Morgan logo](work-experience/jpmorgan-logo.jpg) | **JP Morgan Chase**<br>Software Engineer III<br>February 2022 - April 2025 |
+|                                                 |                                                                              |
+|-------------------------------------------------|------------------------------------------------------------------------------|
+| ![Oracle logo](work-experience/oracle-logo.jpg) | **Oracle**<br>Principal Technical Operations Engineer<br>June 2025 - Present |
+
+Operations engineer for Oracle Cloud Infrastructure (OCI)
+
+<br>
+
+|                                                      |                                                                                               |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| ![JP Morgan logo](work-experience/jpmorgan-logo.jpg) | **JP Morgan Chase**<br>Software Engineer III<br>2022 February - 2025 April (3 years 2 months) |
 
 Full stack developer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various lines of businesses in the bank.
 
@@ -38,11 +47,11 @@ Key achievements:
 - Implemented DevOps practices by building Jenkins CICD pipelines to automate builds, tests, scans and deployments to achieve a reduction in developer toil.
 - Collaborated with other engineering teams across geographical time zones using Agile methodology to plan and deliver projects.
 
----
+<br>
 
 |                                                     |                                                                         |
 |-----------------------------------------------------|-------------------------------------------------------------------------|
-| ![Deloitte logo](work-experience/deloitte-logo.jpg) | **Deloitte**<br>Manager<br>June 2018 - February 2022 (3 years 9 months) |
+| ![Deloitte logo](work-experience/deloitte-logo.jpg) | **Deloitte**<br>Manager<br>2018 June - 2022 February (3 years 9 months) |
 
 Software engineering manager at a consulting firm responsible for delivering IAM cybersecurity projects for the banking sector.
 
@@ -51,22 +60,22 @@ Key achievements:
 - Architected solutions and acted as a subject-matter expert to enhance pre-sales efforts, leading to improved client engagement.
 - Empowered teams by providing mentorship and conducting firm-wide IAM training to engineers of various experience levels.
 
----
+<br>
 
 |                                                             |                                                                                         |
 |-------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| ![CrimsonLogic logo](work-experience/crimsonlogic-logo.jpg) | **CrimsonLogic**<br>Senior Security Engineer<br>June 2015 - June 2018 (3 years 1 month) |
+| ![CrimsonLogic logo](work-experience/crimsonlogic-logo.jpg) | **CrimsonLogic**<br>Senior Security Engineer<br>2015 June - 2018 June (3 years 1 month) |
 
 Developer responsible for delivering government-to-government (G2G) software solutions.
 
 Key achievements:
 - Developed and managed a Public Key Infrastructure (PKI) system enabling the modernization of e-government services.
 
----
+<br>
 
 |                                         |                                                                                                     |
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------|
-| ![ST logo](work-experience/st-logo.jpg) | **ST Electronics (Info-Software)**<br>Software Engineer<br>July 2009 - May 2018 (5 years 11 months) |
+| ![ST logo](work-experience/st-logo.jpg) | **ST Electronics (Info-Software)**<br>Software Engineer<br>2009 July - 2018 May (5 years 11 months) |
 
 Developer responsible for building and maintaining systems for government agencies, including mission-critical systems.
 
@@ -74,7 +83,6 @@ Key achievements:
 - Identified and resolved application performance bottlenecks by optimizing SQL queries and fine-tuning the database through the use of indexes and materialized views.
 - Migrated centralized Source Control Management (SCM) to a distributed SCM (i.e. Git) achieving improved collaboration and reducing conflicts in code baselines for engineers working at various sites.
 - Completed full SDLC lifecycles and successfully launched multiple projects.
-
 
 ## Certifications
 

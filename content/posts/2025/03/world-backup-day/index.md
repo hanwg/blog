@@ -1,5 +1,5 @@
 ---
-title: "Happy World Backup Day"
+title: "💾 Happy World Backup Day"
 summary: "Protect your data against loss and theft."
 date: 2025-03-31
 tags:
