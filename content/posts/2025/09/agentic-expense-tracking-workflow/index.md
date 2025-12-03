@@ -35,7 +35,11 @@ The purpose of the `Import Transaction` workflow is to import transactions into 
 <a href="import-transaction-workflow.png" class="glightbox-1" data-title="Import transaction workflow">
   <img src="import-transaction-workflow.png" alt="import transaction workflow" />
 </a>
-{{< lightbox selector=".glightbox-1" >}}
+<script type="text/javascript">
+    GLightbox({
+        selector: ".glightbox-1"
+    });
+</script>
 
 Pre-conditions:
 1. I perform a transaction (ATM withdrawal, credit card transaction or fund transfer).
@@ -77,7 +81,11 @@ The purpose of the `Archive PDF` workflow is to extract the text content from th
 <a href="archive-pdf-workflow.png" class="glightbox-2" data-title="Archive PDF workflow">
   <img src="archive-pdf-workflow.png" alt="Archive PDF workflow" />
 </a>
-{{< lightbox selector=".glightbox-2" >}}
+<script type="text/javascript">
+    GLightbox({
+        selector: ".glightbox-2"
+    });
+</script>
 
 Pre-conditions: The bank sends an email with an attachment containing the statement of account in a password-protected PDF.
 
@@ -100,7 +108,11 @@ The `Import Transaction` workflow processes a single transaction from a transact
 <a href="process-pdf-workflow.png" class="glightbox-3" data-title="Process PDF workflow">
   <img src="process-pdf-workflow.png" alt="Process PDF workflow" />
 </a>
-{{< lightbox selector=".glightbox-3" >}}
+<script type="text/javascript">
+    GLightbox({
+        selector: ".glightbox-3"
+    });
+</script>
 
 1. The workflow begins when triggered by the `Archive PDF` workflow.
 2. Invoke the Paperless-ngx `documents` REST API to fetch the unlocked PDF.
