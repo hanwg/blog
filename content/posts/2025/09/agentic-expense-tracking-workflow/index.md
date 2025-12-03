@@ -32,8 +32,10 @@ In the following sections, I will be breaking down the agentic expense tracking 
 
 The purpose of the `Import Transaction` workflow is to import transactions into my expense tracker, Firefly.  
 
-{{<gallery match="import-transaction-workflow.png" thumbnailResizeOptions="600x600 q100 Lanczos">}}
-<br />
+<a href="import-transaction-workflow.png" class="glightbox-1" data-title="Import transaction workflow">
+  <img src="import-transaction-workflow.png" alt="import transaction workflow" />
+</a>
+{{< lightbox selector=".glightbox-1" >}}
 
 Pre-conditions:
 1. I perform a transaction (ATM withdrawal, credit card transaction or fund transfer).
@@ -72,8 +74,10 @@ This workflow is split into 2 parts:
 
 The purpose of the `Archive PDF` workflow is to extract the text content from the PDF email attachment which contains the statement of account.
 
-{{<gallery match="archive-pdf-workflow.png" thumbnailResizeOptions="600x600 q100 Lanczos">}}
-<br />
+<a href="archive-pdf-workflow.png" class="glightbox-2" data-title="Archive PDF workflow">
+  <img src="archive-pdf-workflow.png" alt="Archive PDF workflow" />
+</a>
+{{< lightbox selector=".glightbox-2" >}}
 
 Pre-conditions: The bank sends an email with an attachment containing the statement of account in a password-protected PDF.
 
@@ -93,8 +97,10 @@ The flow:
 The `Process PDF` workflow is similar to the `Import Transaction` workflow above.
 The `Import Transaction` workflow processes a single transaction from a transaction notification while the `Process PDF` workflow processes multiple transactions from the statement of account PDF.
 
-{{<gallery match="process-pdf-workflow.png" thumbnailResizeOptions="600x600 q100 Lanczos">}}
-<br />
+<a href="process-pdf-workflow.png" class="glightbox-3" data-title="Process PDF workflow">
+  <img src="process-pdf-workflow.png" alt="Process PDF workflow" />
+</a>
+{{< lightbox selector=".glightbox-3" >}}
 
 1. The workflow begins when triggered by the `Archive PDF` workflow.
 2. Invoke the Paperless-ngx `documents` REST API to fetch the unlocked PDF.

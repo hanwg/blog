@@ -15,7 +15,6 @@ Some minor customizations were done on the PaperMod theme:
 
 1) [hugo-admonitions](https://github.com/KKKZOZ/hugo-admonitions) - Adds callouts.
 2) [PaperMod](https://github.com/adityatelange/hugo-PaperMod) - The site's theme. Supports dark mode and search.
-3) [hugo-shortcode-gallery](https://github.com/mfg92/hugo-shortcode-gallery) - Adds shortcode for image gallery with thumbnails and fullscreen mode.
 
 ---
 

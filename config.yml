@@ -1,7 +1,7 @@
 baseURL: "https://hanwg.top"
 title: Han Wuguang's Tech Blog
 description: I am Wuguang, a software engineer based in Singapore. I write about tech in general but mostly related to software engineering.
-theme: [hugo-admonitions, PaperMod, hugo-shortcode-gallery]
+theme: [hugo-admonitions, PaperMod]
 
 services:
   googleAnalytics:
