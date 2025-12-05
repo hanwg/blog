@@ -3,6 +3,9 @@ title: "About Me"
 layout: "about me"
 summary: "Han Wuguang's profile, core skills, work experience, certifications and education"
 ---
+
+<img src="photo.png#center" alt="profile photo" style="width: 256px;" />
+
 I'm a combination of software architect, developer and systems engineer.
 Throughout my career of more than 15 years, I've designed software systems, written code in various programming languages and maintained IT infrastructures.
 Like everyone else, I started with basic programming skills that I learnt in school.
@@ -44,7 +47,7 @@ Key achievements:
 - Architected complex solutions consisting of components such as message queues, microservices, NoSQL database and third-party platforms.
 - Delivered highly scalable and highly available software solutions by Dockerizing apps and deploying them to Kubernetes / ECS.
 - Automated infrastructure provisioning using Infrastructure-as-Code (IaC) principles by developing Terraform modules to manage AWS resources across multiple environments.
-- Implemented DevOps practices by building Jenkins <abbr title="Continuous Integration Continuous Delivery">CICD</abbr> pipelines to automate builds, tests, scans and deployments to achieve a reduction in developer toil.
+- Implemented DevOps practices by building Jenkins <abbr title="Continuous Integration Continuous Delivery">CICD</abbr> pipelines to automate builds, tests, scans, and deployments to achieve a reduction in developer toil.
 - Collaborated with other engineering teams across geographical time zones using Agile methodology to plan and deliver projects.
 
 <br>
