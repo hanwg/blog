@@ -13,16 +13,16 @@ This blog serves as a journal of my learning experiences.
 
 The following is a list of my core skills (not an exhaustive list) which I have been practicing for the past few years:
 
-|                       |                                                                                               |
-|-----------------------|-----------------------------------------------------------------------------------------------|
-| Programming Languages | `Java (Spring)` `Python` `Linux (Bash)`                                                       |
-| Architectures         | `Distributed systems` `Event-driven` `Serverless` `Microservices` `Containerization (Docker)` |
-| Cloud                 | `AWS` `Terraform` `Kubernetes`                                                                |
-| Database Systems      | `RDBMS` (SQL)<br>`DynamoDB` (NoSQL)                                                           |
-| Frontend Development  | `React` `JavaScript` `HTML` `CSS`                                                             |
-| CICD                  | `Git` `Jenkins` `Maven` `Gradle` `JUnit 5`                                                    |
-| Systems Engineering   | `DNS` `Web Servers` `Load Balancers` `Monitoring` `Alerting` `Virtualization` `Networking`    |
-| Misc.                 | `Agile` `Project Management`                                                                  |
+|                                                                      |                                                                                               |
+|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Programming Languages                                                | `Java (Spring)` `Python` `Linux (Bash)`                                                       |
+| Architectures                                                        | `Distributed systems` `Event-driven` `Serverless` `Microservices` `Containerization (Docker)` |
+| Cloud                                                                | `AWS` `Terraform` `Kubernetes`                                                                |
+| Database Systems                                                     | `RDBMS` (SQL)<br>`DynamoDB` (NoSQL)                                                           |
+| Frontend Development                                                 | `React` `JavaScript` `HTML` `CSS`                                                             |
+| <abbr title="Continuous Integration Continuous Delivery">CICD</abbr> | `Git` `Jenkins` `Maven` `Gradle` `JUnit 5`                                                    |
+| Systems Engineering                                                  | `DNS` `Web Servers` `Load Balancers` `Monitoring` `Alerting` `Virtualization` `Networking`    |
+| Misc.                                                                | `Agile` `Project Management`                                                                  |
 
 ## Work Experience
 
@@ -44,7 +44,7 @@ Key achievements:
 - Architected complex solutions consisting of components such as message queues, microservices, NoSQL database and third-party platforms.
 - Delivered highly scalable and highly available software solutions by Dockerizing apps and deploying them to Kubernetes / ECS.
 - Automated infrastructure provisioning using Infrastructure-as-Code (IaC) principles by developing Terraform modules to manage AWS resources across multiple environments.
-- Implemented DevOps practices by building Jenkins CICD pipelines to automate builds, tests, scans and deployments to achieve a reduction in developer toil.
+- Implemented DevOps practices by building Jenkins <abbr title="Continuous Integration Continuous Delivery">CICD</abbr> pipelines to automate builds, tests, scans and deployments to achieve a reduction in developer toil.
 - Collaborated with other engineering teams across geographical time zones using Agile methodology to plan and deliver projects.
 
 <br>
@@ -53,7 +53,7 @@ Key achievements:
 |-----------------------------------------------------|-------------------------------------------------------------------------|
 | ![Deloitte logo](work-experience/deloitte-logo.jpg) | **Deloitte**<br>Manager<br>2018 June - 2022 February (3 years 9 months) |
 
-Software engineering manager at a consulting firm responsible for delivering IAM cybersecurity projects for the banking sector.
+Software engineering manager at a consulting firm responsible for delivering Identity and Access Management (IAM) cybersecurity projects for the banking sector.
 
 Key achievements:
 - Led a team of 4-6 engineers as technical lead to deliver a workforce IAM platform for a bank which served the entire organization across multiple geographic regions.
@@ -82,7 +82,7 @@ Developer responsible for building and maintaining systems for government agenci
 Key achievements:
 - Identified and resolved application performance bottlenecks by optimizing SQL queries and fine-tuning the database through the use of indexes and materialized views.
 - Migrated centralized Source Control Management (SCM) to a distributed SCM (i.e. Git) achieving improved collaboration and reducing conflicts in code baselines for engineers working at various sites.
-- Completed full SDLC lifecycles and successfully launched multiple projects.
+- Completed full <abbr title="Software Development Lifecycle">SDLC</abbr> lifecycles and successfully launched multiple projects.
 
 ## Certifications
 
