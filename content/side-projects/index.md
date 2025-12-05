@@ -36,15 +36,15 @@ A low-code solution based on workflow automation and AI agent for processing, cl
 
 <code>HomeAutomation</code> <code>Python</code> <code>JavaScript</code>
 
-Current code owner and active maintainer of the [Home Assistant (HA)](https://www.home-assistant.io/) Telegram bot integration,
-the most popular HA notification service used in over **21k** active installations.
+Current code owner and active maintainer of the [Home Assistant](https://www.home-assistant.io/) Telegram bot integration,
+the most popular <abbr title="Home Assistant">HA</abbr> notification service used in over **21k** active installations.
 
 The Telegram bot integration is used for sending and receiving messages from a [Telegram bot account](https://core.telegram.org/bots).
 This enables users to receive notifications and control their smart home via Telegram.
 
 ### Milestones and Achievements
 
-[2025 December Release](https://www.home-assistant.io/blog/2025/07/02/release-20257/#integration-quality-scale-achievements):
+[2025 December Release](https://www.home-assistant.io/blog/2025/12/03/release-202512/#integration-quality-scale-achievements):
 Achieved 🥈 Silver on the [integration quality scale](https://www.home-assistant.io/docs/quality_scale/)
 
 [2025 November Release](https://www.home-assistant.io/blog/2025/11/05/release-202511/#noteworthy-improvements-to-existing-integrations): 

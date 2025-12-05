@@ -24,6 +24,11 @@ params:
   showCodeCopyButtons: true
   showPostNavLinks: true
 
+  editPost:
+    url: "https://github.com/hanwg/blog/tree/main/content"
+    text: "Suggest Changes"
+    appendFilePath: true
+
   social: true
   socialIcons: # optional
     - name: "LinkedIn"
@@ -60,6 +65,8 @@ languages:
           weight: 10
 
 markup:
+  highlight:
+    lineNos: true
   goldmark:
     renderer:
       unsafe: true

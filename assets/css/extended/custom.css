@@ -1,5 +1,4 @@
 .side-projects-icon {
-    width: 30px;
     display: inline;
     margin: 0px 0px -3px 0px !important;
 }
@@ -8,6 +7,7 @@
     text-align: justify;
 }
 
+/* Description text for glightbox. Default color is not visible in dark mode. */
 .gslide-desc {
     color: black;
 }
