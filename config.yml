@@ -48,21 +48,24 @@ languages:
       series: series
     menu:
       main:
+        - name: Posts
+          url: posts/
+          weight: 1
         - name: About Me
           url: about/
-          weight: 1
+          weight: 2
         - name: Side Projects
           url: side-projects/
-          weight: 2
+          weight: 3
         - name: Archive
           url: archives/
+          weight: 4
+        - name: Tags
+          url: tags/
           weight: 5
         - name: Search
           url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
+          weight: 6
 
 markup:
   highlight:
