@@ -31,6 +31,8 @@ params:
 
   social: true
   socialIcons: # optional
+    - name: "rss"
+      url: "https://hanwg.top/index.xml"
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/hanwuguang/"
     - name: "GitHub"

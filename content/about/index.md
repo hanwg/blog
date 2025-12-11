@@ -2,6 +2,7 @@
 title: "About Me"
 layout: "about me"
 summary: "Han Wuguang's profile, core skills, work experience, certifications and education"
+date: 2025-12-11
 ---
 
 <img src="photo.png#center" alt="profile photo" style="width: 256px;" />

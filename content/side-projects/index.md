@@ -2,6 +2,7 @@
 title: "Side Projects"
 layout: "side projects"
 summary: "Collection of my personal projects"
+date: 2025-12-11
 ---
 A collection of my side projects.
 It's a little bare at the moment since I'm still in the midst of filling up this section.
