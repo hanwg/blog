@@ -4,6 +4,10 @@ summary: "An integration with public transport services for home automation"
 date: 2025-05-14
 tags:
   - HomeAutomation
+cover:
+  image: "cover.png"
+  alt: "SG Bus Arrivals"
+  caption: "SG Bus Arrivals: A tracker for bus arrivals"
 ---
 As a home automation enthusiast, the 1 thing that I always wanted to automate is keeping track of bus arrivals.
 Wouldn't it be great to glance at a dashboard or receive notifications to know exactly when the bus is arriving?

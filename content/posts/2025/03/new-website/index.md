@@ -4,6 +4,10 @@ summary: "Starting a new website with Hugo and GitHub pages"
 date: 2025-03-28
 tags:
   - SoftwareEngineering
+cover:
+  image: "cover.png"
+  alt: "Starting a new blog"
+  caption: "Starting a new blog"
 ---
 I've created a new personal website: https://hanwg.top  
 

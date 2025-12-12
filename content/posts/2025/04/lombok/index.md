@@ -4,6 +4,10 @@ summary: "Improve productivity for your Java projects using Lombok"
 date: 2025-04-06
 tags:
   - SoftwareEngineering
+cover:
+  image: "cover.png"
+  alt: "Lombok can boost a Java developer's productivity"
+  caption: "Lombok can boost a Java developer's productivity"
 ---
 ## 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗶𝘁?
 

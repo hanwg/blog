@@ -4,6 +4,10 @@ summary: "Use webp for static resources to reduce load times"
 date: 2025-05-04
 tags:
   - SoftwareEngineering
+cover:
+  image: "cover.png"
+  alt: "WebP vs traditional formats"
+  caption: "WebP vs traditional formats"
 ---
 Here's a simple trick to improve the performance and user experience of your website -
 convert the images on your website to `webp` format.

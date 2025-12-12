@@ -4,6 +4,10 @@ summary: "Should a software engineer develop his/her skills deep in an area (dep
 date: 2025-04-08
 tags:
   - SoftwareEngineering
+cover:
+  image: "cover.png"
+  alt: "Generalist vs Specialist"
+  caption: "Generalist vs Specialist"
 ---
 Software engineers constantly face a crucial question: Should I develop my knowledge across many technologies or develop deep expertise in a few areas?
 
