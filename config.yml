@@ -65,7 +65,7 @@ languages:
         - name: Tags
           url: tags/
           weight: 5
-        - name: Search
+        - name: 🔍
           url: search/
           weight: 6
 

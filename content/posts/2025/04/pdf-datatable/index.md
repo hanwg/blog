@@ -4,6 +4,10 @@ summary: "The development process behind PDF DataTable"
 date: 2025-04-28
 tags:
   - SoftwareEngineering
+cover:
+  image: "cover.png"
+  alt: "PDF conversion to CSV"
+  caption: "PDF conversion to CSV"
 ---
 I launched [PDF DataTable](https://pdf-datatable.hanwg.top) on 21 April 2025.
 It was my latest personal project, and I thought it would be interesting to share the development process that went into building the app.
