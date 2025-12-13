@@ -1,5 +1,5 @@
 ---
-title: "Side Projects"
+title: "💼 Side Projects"
 layout: "side projects"
 summary: "Collection of my personal projects"
 date: 2025-12-11

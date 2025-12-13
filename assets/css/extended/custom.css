@@ -6,6 +6,9 @@
 .post-content p {
     text-align: justify;
 }
+.post-content li {
+    text-align: justify;
+}
 
 /* Description text for glightbox. Default color is not visible in dark mode. */
 .gslide-desc {

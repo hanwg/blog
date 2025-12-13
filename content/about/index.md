@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "ℹ️ About Me"
 layout: "about me"
 summary: "Han Wuguang's profile, core skills, work experience, certifications and education"
 date: 2025-12-11
