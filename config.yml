@@ -13,6 +13,7 @@ privacy:
 
 params:
   env: production
+  defaultTheme: dark
   description: I'm Wuguang, a architect / software engineer / site reliability engineer based in Singapore. I write about tech including topics in software engineering.
   homeInfoParams:
     Title: Hi there, I'm Wuguang
