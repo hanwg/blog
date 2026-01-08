@@ -1,8 +1,7 @@
 ---
 title: "Year in Review: 2025"
 summary: "Reflecting on 2025"
-date: 2026-01-04
-draft: true
+date: 2026-01-08
 cover:
    image: "2025-year-in-review.png"
    alt: "2025 year in review"
@@ -18,7 +17,16 @@ My proud moments:
   Moving from a user to contributor and finally to code owner has been an incredible journey for me.
   There's no better feeling than seeing my work having an impact on the community!
 - **Achieved Super Contributor in Hacktoberfest.** Hacktoberfest was challenging for me as the event had a short time frame (within the month of October).
-  However, I persevered and archived the **Super Contributor** status by consistently delivered quality Pull Requests (PRs) with features, code quality improvements, bug fixes, tests / code coverage, and documentation.
+  However, I persevered and archived the **Super Contributor** status by consistently delivered quality Pull Requests (PRs) with features, code quality improvements, bug fixes, tests, and documentation.
+
+## Career Transition: From Dev to Ops
+
+After building applications for more than 15 years, I decided to take on a new challenge.
+In June 2025, I had a career change from a software engineer to an operations engineer.
+
+My focus has shifted from writing code (Build) to maintaining the availability of services (Run).
+As I transit into my new role, I hope to gain new perspectives and insights on the software development lifecycle.
+I'm excited to tackle the challenges of operations and support such as observability, resiliency and maintaining the health of systems.
 
 ## Learning and Development
 
@@ -28,6 +36,6 @@ For the past year, my focus is on **Cloud infrastructure**.
 After a few years of hands-on experience developing scalable and secure cloud-native apps on AWS, I decided it was time for me to get certified.
 
 More recently, I've also expanded my experience to include <abbr title="Oracle Cloud Infrastructure">OCI</abbr> through the course of my work.
-With an existing strong foundation in AWS cloud, I was able to accelerate my learning of OCI technologies and achieved the certifications required for my role.
+With strong foundational knowledge in AWS cloud, I was able to accelerate my learning of OCI technologies and achieved the certifications required for my role as an operations engineer.
 
 Armed with this knowledge, I am confident that I will be able to develop and support complex systems in a multi-cloud / hybrid cloud environment.
