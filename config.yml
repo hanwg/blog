@@ -17,7 +17,7 @@ params:
   description: I'm Wuguang, a architect / software engineer / site reliability engineer based in Singapore. I write about tech including topics in software engineering.
   homeInfoParams:
     Title: Hi there, I'm Wuguang
-    Content: and this is my software development blog. I'll be sharing with you all things related to technology in this blog. If you would like to reach out to me, feel free to connect with me via LinkedIn.
+    Content: and this is my software development blog. I'll be sharing with you all things related to technology in this blog. If you would like to reach out to me, feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/hanwuguang/).
   assets:
     favicon: "/favicon.ico"
   showReadingTime: true
