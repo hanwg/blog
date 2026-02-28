@@ -58,8 +58,16 @@ This adapter is transparent to users and runs in the background, diligently tran
 To ensure a successful migration, I focused on lowering the migration barrier by helping users adopt the new solution.
 Some of the support measures include:
 - Side-by-side examples: Documentation with snippets illustrating the legacy way vs the modern way. 
-- Deprecation warnings: Intelligent runtime warning messages which guide the user on that needs to change and how to change it.
+- Deprecation warnings: Intelligent runtime warning messages which guide the user on what needs to change and how to change it.
 - Automation: Automatic migration where possible. For example, converting old configurations to the new format.
+
+### The Breaking Change
+
+Once the migration window has closed, all deprecated code and its legacy migration support measures are purged from the codebase.
+This cleanup reduces the technical debt and ensures the long-term maintainability of the codebase.
+
+Consequently, the next release introduces breaking changes for users who have not yet migrated.
+The breaking changes are then documented in the release notes prominently as a final notice for users to migrate before upgrading.
 
 ### Communication
 
@@ -70,14 +78,14 @@ While the deprecation process is happening, ongoing communications are vital to 
 - Log files: A warning is logged whenever the deprecated feature is used. Since log files are often monitored by system administrators, warning messages can be used to alert them.
 - Release notes: Breaking changes are prominently featured in the release notes with links to detail migration steps in the project documentation site to guide users.
 - Project forums and social media: Besides functioning as a channel for deprecation announcements, it is also a good place for discussions and to gather feedback.
-- Project repository and project management site: Intended for developers, the technical aspects of the deprecation are detailed here. This helps to guide developers on the development and code reviews of the new solution.
+- Project repository and project management site: Intended for developers, the technical aspects of the deprecation are detailed here. This helps to guide developers on the development and code reviews for the new solution.
 - Project documentation site: The primary source of information for everyone.
-- Real-time alerts: The user is alerted when the deprecated feature is used.
+- Real-time alerts: The user is alerted (for example, popup messages) when the deprecated feature is used.
 
 **Crafting the Deprecation Message.** For the deprecation message to be effective, I included the following elements:
 
 - Context: Provide a short summary or background about the feature.
-- Reason: Explain why the feature is being deprecated (for example, technical debt, compatibility with newer APIs, etc.).
+- Reason for deprecation: Explain why the feature is being deprecated (for example, technical debt, compatibility with newer APIs, etc.).
 - Impact: Highlight the impact if the feature is not deprecated (for example, security vulnerabilities, performance issues, etc.).
 - Migration: Provide a migration plan to help users adopt the new solution. Include examples and explain alternatives if available.
 - Time frame: Give a time frame to allow users to plan for the migration. Be as clear as possible, such as providing the exact date or version where the feature will be removed.
