@@ -1,8 +1,7 @@
 ---
 title: "Self-hosted: Local Telegram Bot API"
 summary: "Bringing the Telegram Bot API to Your Smart Home"
-date: 2026-03-28
-draft: true
+date: 2026-03-02
 tags:
   - SoftwareEngineering
   - HomeAutomation
