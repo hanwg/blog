@@ -38,10 +38,9 @@ A low-code solution based on workflow automation and AI agent for processing, cl
 <code>HomeAutomation</code> <code>Python</code> <code>JavaScript</code>
 
 Current code owner and active maintainer of the [Home Assistant](https://www.home-assistant.io/) Telegram bot integration,
-the most popular <abbr title="Home Assistant">HA</abbr> notification service used in over **21k** active installations.
+the most popular <abbr title="Home Assistant">HA</abbr> notification service used in over **24k** active installations.
 
-The Telegram bot integration is used for sending and receiving messages from a [Telegram bot account](https://core.telegram.org/bots).
-This enables users to receive notifications and control their smart home via Telegram.
+The [Telegram bot integration](https://www.home-assistant.io/integrations/telegram_bot/) is used for sending and receiving messages from a [Telegram bot account](https://core.telegram.org/bots), enabling users to integrate notifications and control their smart home via Telegram.
 
 ### Milestones and Achievements
 
@@ -59,6 +58,17 @@ Achieved 🥉 Bronze on the integration quality scale
 *Disclaimer: I am not affiliated with Home Assistant.*
 
 [🌐 Website](https://www.home-assistant.io/integrations/telegram_bot/) | [📄 GitHub Repo](https://github.com/hanwg/core) | [✒️ Blog Post](../posts/2025/07/open-source-journey)
+
+---
+
+## <img src="telegram-icon.png" alt="Telegram logo" class="side-projects-icon" /> Telegram Bot API for Home Assistant
+
+<code>HomeAutomation</code> <code>Docker</code>
+
+This is a containerized implementation of the [Telegram Bot API server](https://github.com/tdlib/telegram-bot-api) that offers better network latency and support for larger file sizes compared to the official Telegram cloud servers.
+It is optimized for the Home Assistant platform, enabling a "1-click" style installation and configuration with automated updates.
+
+[📄 GitHub Repo](https://github.com/hanwg/hassio-apps) | [✒️ Blog Post](../posts/2026/03/telegram-bot-api-server)
 
 ---
 
@@ -82,9 +92,8 @@ Achieved 🥉 Bronze on the integration quality scale
 
 <code>HomeAutomation</code> <code>Python</code>
 
-SG Bus Arrivals is a custom integration for [Home Assistant](https://www.home-assistant.io/).
-It uses the [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en.html) APIs to fetch data on public transport services.
-The data can then be used in automations to display bus arrival times or trigger notifications based on geo-proximity or presence.
+SG Bus Arrivals is a custom integration for [Home Assistant](https://www.home-assistant.io/) that consumes [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en.html) APIs to provide tracking data for public transport services.
+The integration is designed to streamline daily commutes through personalized dashboards and advanced automations based on geo-proximity and presence-based notifications.
 
 [📄 GitHub Repo](https://github.com/hanwg/sg-bus-arrivals) | [✒️ Blog Post](../posts/2025/05/sg-bus-arrivals)
 
@@ -105,9 +114,8 @@ I used the React-PDF library to render PDFs to allow me to select elements so th
 
 <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
-In early 2025, I took the plunge and started this blog.
-I already had a personal wiki based on [BookStack](https://www.bookstackapp.com/) which I created a long time back, but I wanted to create a different space to share my passions, expertise and thoughts.
-A place where I can also track my journey and growth.
+After years of maintaining a personal technical wiki, I decided in early 2025 to start a public blog.
+This blog was built to share my passions, expertise and lessons learnt along the way.
 It isn't my first side project, but this one feels particularly meaningful for me.
 
 [🌐 Website](..) | [📄 GitHub Repo](https://github.com/hanwg/blog) | [✒️️ Blog Post](../posts/2025/03/new-website)
