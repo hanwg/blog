@@ -7,7 +7,7 @@ tags:
   - HomeAutomation
 cover:
   image: "telegram-bot-api-server.png"
-  alt: "Telegram"
+  alt: "Self-hosting"
 ---
 Did you know that you can self-host the Telegram Bot API?
 

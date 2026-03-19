@@ -70,12 +70,15 @@ This platform creates actions known as **notifiers** which can then be used for 
 
 For example, the `configuration.yaml` below would create a `notify.sarah` action.
 This enabled other integrations and modules such as the (legacy) [Alert](https://www.home-assistant.io/integrations/alert/) integration and the [Multi-Factor Authentication (MFA)](https://www.home-assistant.io/docs/authentication/multi-factor-auth/) module to send notifications by referencing the `sarah` notifier.
-```yaml
-notify:
-  - platform: telegram
-    name: "sarah"  # notifier
-    chat_id: 1234567890
-```
+
+> [!EXAMPLE]
+> **Legacy Telegram Notifier**
+> ```yaml
+> notify:
+>   - platform: telegram
+>     name: "sarah"  # notifier
+>     chat_id: 1234567890
+> ```
 
 As explained in [architecture discussion #1041](https://github.com/home-assistant/architecture/discussions/1041), the notify platform is being retired due to the following issues:
 - **No UI support.** The notify platform can only be set up via `configuration.yaml` which conflicts with the goal of making Home Assistant more user-friendly.
@@ -84,7 +87,7 @@ As explained in [architecture discussion #1041](https://github.com/home-assistan
 
 The legacy notify platform is making way for the modern [notify action](https://www.home-assistant.io/integrations/notify/#notify-action) which allows you to send notifications to multiple targets using **notify entities**.
 
-### Migration Path
+### Migrating Telegram to Telegram Bot
 
 If you have received the migration alert, it means that you are still using the legacy Telegram integration in your `configuration.yaml`. A sample of the migration alert is as follows:
 
@@ -204,6 +207,7 @@ To complete the migration, you must update all your automations and scripts to r
 In the following example, `telegram_bot.send_message` was the action involved and `no_such_parameter` is the offending field to be removed.
 
 > [!EXAMPLE]
+> **Action with unsupported parameter**
 > ```yaml
 > action: telegram_bot.send_message
 > data:
@@ -216,6 +220,8 @@ In the following example, `telegram_bot.send_message` was the action involved an
 
 Besides strict schema validation, the 2026.1 release also deprecated the `timeout` action parameter.
 The migration alert is triggered when a Telegram bot action which uses the `timeout` parameter is executed:
+
+> [!WARNING]
 > **The timeout parameter for Telegram bot is being removed**
 > 
 > Update all affected automations and scripts to remove the `timeout` parameter and then click SUBMIT to fix this issue.
@@ -263,30 +269,40 @@ To better distinguish action targets and target parameter, the `target` paramete
 
 Here's an example to illustrate the differences: 
 
-```yaml
-# Action target
-action: light.turn_on
-target:  # not nested
-  area_id: living_room
-  device_id:
-  - ff22a1889a6149c5ab6327a8236ae704
-  - 52c050ca1a744e238ad94d170651f96b
-  entity_id:
-    - light.hallway
-```
-
-```yaml
-# Target parameter
-action: telegram_bot.send_message
-data:
-  message: "Yay! A message from Home Assistant."
-  target:  # nested in `data`
-    - 1234567890
-```
+> [!EXAMPLE]
+> ```yaml
+> # Action target
+> action: light.turn_on
+> target:  # not nested
+>   area_id: living_room
+>   device_id:
+>   - ff22a1889a6149c5ab6327a8236ae704
+>   - 52c050ca1a744e238ad94d170651f96b
+>   entity_id:
+>     - light.hallway
+> ```
+>
+> ```yaml
+> # Target parameter
+> action: telegram_bot.send_message
+> data:
+>   message: "Yay! A message from Home Assistant."
+>   target:  # nested in `data`
+>     - 1234567890
+> ```
 
 ### Migrating `target` to `entity_id` or `chat_id`
 
-There's 2 migration paths:
+You will need to perform migration if you have received the following migration alert:
+
+> [!WARNING]
+> **The `target` parameter for Telegram bot is being removed**
+> 
+> The `target` parameter is being deprecated.
+> You should update any automations and scripts that use that parameter in Telegram bot actions.
+> Use `entity_id` to specify Telegram bot notify entities or `chat_id` to replace `target`.
+
+There are 2 options for migration:
 1. Replace `target` with `entity_id` by specifying notify entities. 
 2. Rename `target` to `chat_id`.
 
