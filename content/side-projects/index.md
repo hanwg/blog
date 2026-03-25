@@ -50,14 +50,14 @@ Achieved 🥈 Silver on the [integration quality scale](https://www.home-assista
 [2025 November Release](https://www.home-assistant.io/blog/2025/11/05/release-202511/#noteworthy-improvements-to-existing-integrations): 
 Added event entities to simplify automations
 
-2025 October: Hacktoberfest 2025 Super Contributor
+2025 October: [Hacktoberfest 2025 Super Contributor](/posts/2025/10/hacktoberfest)
 
 [2025 July Release](https://www.home-assistant.io/blog/2025/07/02/release-20257/#integration-quality-scale-achievements):
 Achieved 🥉 Bronze on the integration quality scale
 
 *Disclaimer: I am not affiliated with Home Assistant.*
 
-[🌐 Website](https://www.home-assistant.io/integrations/telegram_bot/) | [📄 GitHub Repo](https://github.com/hanwg/core) | [✒️ Blog Post](../posts/2025/07/open-source-journey)
+[🌐 Website](https://www.home-assistant.io/integrations/telegram_bot/) | [📂 GitHub Repo](https://github.com/hanwg/core) | [✒️ Blog Post](../posts/2025/07/open-source-journey)
 
 ---
 
@@ -68,7 +68,7 @@ Achieved 🥉 Bronze on the integration quality scale
 This is a containerized implementation of the [Telegram Bot API server](https://github.com/tdlib/telegram-bot-api) that offers better network latency and support for larger file sizes compared to the official Telegram cloud servers.
 It is optimized for the Home Assistant platform, enabling a "1-click" style installation and configuration with automated updates.
 
-[📄 GitHub Repo](https://github.com/hanwg/hassio-apps) | [✒️ Blog Post](../posts/2026/03/telegram-bot-api-server)
+[📂 GitHub Repo](https://github.com/hanwg/hassio-apps) | [✒️ Blog Post](../posts/2026/03/telegram-bot-api-server)
 
 ---
 
@@ -95,7 +95,7 @@ It is optimized for the Home Assistant platform, enabling a "1-click" style inst
 SG Bus Arrivals is a custom integration for [Home Assistant](https://www.home-assistant.io/) that consumes [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en.html) APIs to provide tracking data for public transport services.
 The integration is designed to streamline daily commutes through personalized dashboards and advanced automations based on geo-proximity and presence-based notifications.
 
-[📄 GitHub Repo](https://github.com/hanwg/sg-bus-arrivals) | [✒️ Blog Post](../posts/2025/05/sg-bus-arrivals)
+[📂 GitHub Repo](https://github.com/hanwg/sg-bus-arrivals) | [✒️ Blog Post](../posts/2025/05/sg-bus-arrivals)
 
 ---
 
@@ -106,7 +106,7 @@ The integration is designed to streamline daily commutes through personalized da
 PDF DataTable is a productivity tool that I built to export PDFs to CSV files.
 I used the React-PDF library to render PDFs to allow me to select elements so that I can quickly filter out relevant records to be exported. 
 
-[🌐 Website](https://pdf-datatable.hanwg.top) | [📄 GitHub Repo](https://github.com/hanwg/pdf-datatable) | [✒️ Blog Post](../posts/2025/04/pdf-datatable) 
+[🌐 Website](https://pdf-datatable.hanwg.top) | [📂 GitHub Repo](https://github.com/hanwg/pdf-datatable) | [✒️ Blog Post](../posts/2025/04/pdf-datatable) 
 
 ---
 
@@ -118,4 +118,4 @@ After years of maintaining a personal technical wiki, I decided in early 2025 to
 This blog was built to share my passions, expertise and lessons learnt along the way.
 It isn't my first side project, but this one feels particularly meaningful for me.
 
-[🌐 Website](..) | [📄 GitHub Repo](https://github.com/hanwg/blog) | [✒️️ Blog Post](../posts/2025/03/new-website)
+[🌐 Website](..) | [📂 GitHub Repo](https://github.com/hanwg/blog) | [✒️️ Blog Post](../posts/2025/03/new-website)
