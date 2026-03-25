@@ -335,7 +335,7 @@ There are 2 options for migration:
 
 **Why Telegram bot doesn't support action targets yet**
 
-If you have opt for the first migration option, you might find it strange that the `entity_id` is nested in the `data` field (as an action parameter) instead of `target` (as an action target):
+If you have opted for the first migration option, you might find it strange that the `entity_id` is nested in the `data` field (as an action parameter) instead of `target` (as an action target):
 > ```yaml
 > action: telegram_bot.send_message
 > #target:
@@ -372,6 +372,19 @@ Once action targets have been implemented, you don't need to perform another mig
 >   entity_id:
 >     - notify.telegram
 > ```
+
+**Troubleshooting the `call_service` Migration Alert**
+
+If your migration alert points to `call_service` rather than a specific automation or script, it means the deprecated parameter is being triggered by an underlying service.
+Currently, Home Assistant is not able to pinpoint which specific integration or service is making this call.
+
+In this scenario, there's no possible migration path.
+You will need to wait for the relevant integration or module developer to release an update that supports the new schema.
+
+> [!NOTE]
+> In [PR #165299](https://github.com/home-assistant/core/pull/165299), the legacy Telegram integration has been updated to use the new schema.
+> If this was the source of your migration alert, it should be resolved starting from the **2026.4** release.
+
 ---
 
 ## Closing Remarks
