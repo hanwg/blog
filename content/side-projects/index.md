@@ -44,8 +44,11 @@ The [Telegram bot integration](https://www.home-assistant.io/integrations/telegr
 
 ### Milestones and Achievements
 
+[2026 April Release](https://www.home-assistant.io/blog/2026/04/01/release-20264/):
+Achieved Gold on the [integration quality scale](https://www.home-assistant.io/docs/quality_scale/)
+
 [2025 December Release](https://www.home-assistant.io/blog/2025/12/03/release-202512/#integration-quality-scale-achievements):
-Achieved 🥈 Silver on the [integration quality scale](https://www.home-assistant.io/docs/quality_scale/)
+Achieved 🥈 Silver on the integration quality scale
 
 [2025 November Release](https://www.home-assistant.io/blog/2025/11/05/release-202511/#noteworthy-improvements-to-existing-integrations): 
 Added event entities to simplify automations
