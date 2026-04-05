@@ -43,8 +43,7 @@ This helps to raise awareness among developers to avoid redundant Pull Request (
 
 ### Implement the New Solution
 
-The next stage of the process is to implement the new solution.
-To minimize breaking changes, the new solution was developed with consideration for stability. 
+The next stage of the process is to implement the new solution guide by the following principles.
 
 **Feature Parity.**
 Transitioning to the new solution shouldn't feel like a downgrade.
@@ -75,20 +74,20 @@ While the deprecation process is happening, ongoing communications are vital to 
 
 **Multi-Channel Communication.** To ensure that the message reaches all segments of users (system administrators, developers, end-users, etc.), the communication of the deprecation was done through multiple channels:
 
-- Log files: A warning is logged whenever the deprecated feature is used. Since log files are often monitored by system administrators, warning messages can be used to alert them.
-- Release notes: Breaking changes are prominently featured in the release notes with links to detail migration steps in the project documentation site to guide users.
-- Project forums and social media: Besides functioning as a channel for deprecation announcements, it is also a good place for discussions and to gather feedback.
-- Project repository and project management site: Intended for developers, the technical aspects of the deprecation are detailed here. This helps to guide developers on the development and code reviews for the new solution.
-- Project documentation site: The primary source of information for everyone.
-- Real-time alerts: The user is alerted (for example, popup messages) when the deprecated feature is used.
+- **Log files**: A warning is logged whenever the deprecated feature is used. Since log files are often monitored by system administrators, warning messages can be used to alert them.
+- **Release notes**: Breaking changes are prominently featured in the release notes with links to detail migration steps in the project documentation site to guide users.
+- **Project forums and social media**: Besides functioning as a channel for deprecation announcements, it is also a good place for discussions and to gather feedback.
+- **Project repository and project management site**: Intended for developers, the technical aspects of the deprecation are detailed here. This helps to guide developers on the development and code reviews for the new solution.
+- **Project documentation site**: The primary source of information for everyone.
+- **Deprecation alerts**: The user is alerted (for example, popup messages) when the deprecated feature is used.
 
 **Crafting the Deprecation Message.** For the deprecation message to be effective, I included the following elements:
 
-- Context: Provide a short summary or background about the feature.
-- Reason for deprecation: Explain why the feature is being deprecated (for example, technical debt, compatibility with newer APIs, etc.).
-- Impact: Highlight the impact if the feature is not deprecated (for example, security vulnerabilities, performance issues, etc.).
-- Migration: Provide a migration plan to help users adopt the new solution. Include examples and explain alternatives if available.
-- Time frame: Give a time frame to allow users to plan for the migration. Be as clear as possible, such as providing the exact date or version where the feature will be removed.
+- **Context**: Provide a short summary or background about the feature.
+- **Reason for deprecation**: Explain why the feature is being deprecated (for example, technical debt, compatibility with newer APIs, etc.).
+- **Impact**: Highlight the impact if the feature is not deprecated (for example, security vulnerabilities, performance issues, etc.).
+- **Migration**: Provide a migration plan to help users adopt the new solution. Include examples and explain alternatives if available.
+- **Time frame**: Give a time frame to allow users to plan for the migration. Be as clear as possible, such as providing the exact date or version where the feature will be removed.
 
 ## Final Thoughts
 
