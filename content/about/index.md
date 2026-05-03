@@ -61,9 +61,10 @@ Key achievements:
 Software engineering manager at a consulting firm responsible for delivering Identity and Access Management (IAM) cybersecurity projects for the banking sector.
 
 Key achievements:
-- Led a team of 4-6 engineers as technical lead to deliver a workforce IAM platform for a bank which served the entire organization across multiple geographic regions.
-- Architected solutions and acted as a subject-matter expert to enhance pre-sales efforts, leading to improved client engagement.
-- Empowered teams by providing mentorship and conducting firm-wide IAM training to engineers of various experience levels.
+- Led a team of 6 engineers to deliver a workforce IAM platform for a bank which served the entire organization across multiple geographic regions.
+- Architected highly available and scalable solutions with automated load balancing and failovers to ensure system availability.
+- Designed and conducted technical trainings to develop IAM expertise which accelerated onboarding of engineers across various experience levels.
+- Bridge cross regional engineering teams by fostering a culture of collaboration and knowledge sharing.
 
 <br>
 
@@ -71,10 +72,7 @@ Key achievements:
 |-------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | ![CrimsonLogic logo](work-experience/crimsonlogic-logo.jpg) | **CrimsonLogic**<br>Senior Security Engineer<br>2015 June - 2018 June (3 years 1 month) |
 
-Developer responsible for delivering government-to-government (G2G) software solutions.
-
-Key achievements:
-- Developed and managed a Public Key Infrastructure (PKI) system enabling the modernization of e-government services.
+Developed and maintained a national-scale Public Key Infrastructure (PKI) platform, enabling the modernization of e-government services across public sector agencies.
 
 <br>
 
@@ -82,12 +80,7 @@ Key achievements:
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------|
 | ![ST logo](work-experience/st-logo.jpg) | **ST Electronics (Info-Software)**<br>Software Engineer<br>2009 July - 2018 May (5 years 11 months) |
 
-Developer responsible for building and maintaining systems for government agencies, including mission-critical systems.
-
-Key achievements:
-- Identified and resolved application performance bottlenecks by optimizing SQL queries and fine-tuning the database through the use of indexes and materialized views.
-- Migrated centralized Source Control Management (SCM) to a distributed SCM (i.e. Git) achieving improved collaboration and reducing conflicts in code baselines for engineers working at various sites.
-- Completed full <abbr title="Software Development Lifecycle">SDLC</abbr> lifecycles and successfully launched multiple projects.
+Contributed to the engineering and lifecycle support of mission-critical software solutions for public sector agencies, focusing on system stability and high-availability standards.
 
 ## Certifications
 

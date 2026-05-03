@@ -10,8 +10,7 @@ cover:
   caption: "Deprecating a beloved software feature"
 ---
 
-*Note: This post is written from the perspective of a system deployed as a standalone application on a server.
-For systems using other deployment models, a different deprecation approach may be more effective.*
+*Note: This post is written from the perspective of a self-hosted application.*
 
 ---
 
