@@ -2,16 +2,15 @@
 title: "About Me"
 layout: "about me"
 summary: "Han Wuguang's profile, core skills, work experience, certifications and education"
-date: 2025-12-11
+date: 2026-05-04
 ---
 
 <img src="photo.png#center" alt="profile photo" style="width: 256px;" />
 
-I'm a combination of software architect, developer and systems engineer.
-Throughout my career of more than 15 years, I've designed software systems, written code in various programming languages and maintained IT infrastructures.
-Like everyone else, I started with basic programming skills that I learnt in school.
-With an inquisitive mind and a keen interest in technology, I started working on personal projects to help me develop my skills.
-This blog serves as a journal of my learning experiences.
+I am a software architect and systems engineer with a 15-year track record of building and scaling digital infrastructure.
+My career has been defined by a constant evolution: writing code in various languages, designing resilient systems, and managing the environments they live in.
+While my journey started with a formal education, it is fueled by a restless curiosity and a love for self-hosted experimentation.
+I use this space to document my learning experiences and the technical insights I pick up along the way.
 
 ## Core Skills
 
@@ -23,10 +22,10 @@ The following is a list of my core skills (not an exhaustive list) which I have 
 | Architectures                                                        | `Distributed systems` `Event-driven` `Serverless` `Microservices` `Containerization (Docker)` |
 | Cloud                                                                | `OCI` `AWS` `Terraform` `Kubernetes`                                                          |
 | Database Systems                                                     | `RDBMS` (SQL)<br>`DynamoDB` (NoSQL)                                                           |
-| Frontend Development                                                 | `React` `JavaScript` `HTML` `CSS`                                                             |
-| <abbr title="Continuous Integration Continuous Delivery">CICD</abbr> | `Git` `Jenkins` `Maven` `Gradle` `JUnit 5`                                                    |
-| Systems Engineering                                                  | `DNS` `Web Servers` `Load Balancers` `Monitoring` `Alerting` `Virtualization` `Networking`    |
-| Operations                                                           | `Incident Management` `Change Management` `Monitoring`                                        |
+| Web Development                                                      | `JavaScript` `HTML` `CSS`                                                                     |
+| <abbr title="Continuous Integration Continuous Delivery">CICD</abbr> | `Git` `SonarQube` `Maven` `Gradle` `JUnit 5`                                                  |
+| Systems Engineering                                                  | `DNS` `Web Servers` `Load Balancers` `Virtualization` `Networking`                            |
+| Operations                                                           | `Incident Management` `Change Management` `Observability`                                     |
 | Misc.                                                                | `Agile` `Project Management`                                                                  |
 
 ## Work Experience
@@ -36,6 +35,12 @@ The following is a list of my core skills (not an exhaustive list) which I have 
 | ![Oracle logo](work-experience/oracle-logo.jpg) | **Oracle**<br>Principal Technical Operations Engineer<br>June 2025 - Present |
 
 Principal engineer responsible for the operation of production environments to support critical business operations for the sovereign cloud running on Oracle Cloud Infrastructure (OCI).
+
+Key achievements:
+- Co-authored the Concept of Operations (ConOps), establishing the operational procedures and best practices to meet stringent uptime, compliance and security requirements of classified workloads.
+- Designed and conducted comprehensive technical and operational training for the newly formed engineering workforce, accelerating team readiness and ensuring operational excellence across the Oracle technology stack.
+- Provided technical guidance and mentorship to engineers, fostering a culture of continuous learning.
+- Responsible for incident management, orchestrating efforts across various regional teams to ensure rapid resolution of critical issues while maintaining transparent stakeholder communication.
 
 <br>
 
