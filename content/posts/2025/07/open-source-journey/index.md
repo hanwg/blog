@@ -10,8 +10,8 @@ cover:
   alt: "Journey"
   caption: "My long journey of contributing to open source"
 ---
-This month, I am excited to share that I've officially become a code owner for the [Home Assistant Telegram integration](https://www.home-assistant.io/integrations/telegram_bot/).
-In this post, I will be sharing my journey on how I went from being a user to an active maintainer.
+This month, I am excited to share that I've officially become a Code Owner for Home Assistant's [Telegram integration](https://www.home-assistant.io/integrations/telegram_bot/).
+In this post, I will be sharing my journey on how I went from being a user to an open source Code Owner.
 
 For those who are unfamiliar, [Home Assistant (HA)](https://www.home-assistant.io/) is a free open source platform for managing and controlling smart home devices such as switches and lights.
 The Telegram integration is one of Home Assistant's most widely used integration under the Notifications category.
@@ -34,11 +34,11 @@ With my background in software engineering and growing curiosity on how the Home
 ## The First Step
 
 For a new contributor, diving into an open source project can be a daunting task.
-There's a massive codebase, copious amount of documentation and sprawling discussions spanning forums, Discord channels and GitHub issues.
+There's a massive codebase, copious amount of documentation and sprawling discussions spanning forums, Discord channels and GitHub Issues.
 Furthermore, there's rarely anyone available to provide guidance.
 
 I was undeterred and began my research:
-- I scoured the developer documentation to understand how to set up my development environment, build and execute tests.
+- I scoured the developer documentation to understand how to set up my development environment, build the project and execute tests.
   I also made sure to adhere to coding styles and guidelines for a smoother review process.
 - I examined new and old pull requests to narrow down my search to the relevant source files that I need to modify for my planned changes.
 - I referenced other integrations of similar nature to get a better grasp on the flow of the integration.
@@ -51,9 +51,9 @@ My first PR was driven by a desire to simplify the Telegram integration's config
 Back then, the integration could only be configured using YAML, and every change I made required a reboot.
 This was disruptive, especially when I was building and testing automations with different configurations.
 
-Hence, I decided to create a User Interface (UI) for configuring the integration.
+Hence, I decided to create a new User Interface (UI) for configuring the integration.
 This not only allowed on-the-fly reload of configuration changes but also eliminated configuration errors, which was common when editing YAML files.
-After a week of hard work, I finally completed my changes and submitted my PR.
+After a week of hard work, I finally completed my changes and submitted my first PR.
 
 A week later, someone from the Home Assistant core team reviewed my PR.
 What followed was an eye-opening albeit long and laborious process - I had unknowingly picked a complex issue for my first PR.
@@ -61,33 +61,28 @@ I received extensive feedback which required a ton of rework and new changes suc
 - Documentation for the end user
 - Refactoring to maintain code quality
 - Handling migration and backwards compatibility
-- Registering an issue to inform user of the YAML deprecation
-- General code improvements (The development was done in python, which wasn't my main programming language)
+- General code improvements (The development was done in Python, which wasn't my main programming language)
 
 Despite the challenges, I soldiered on and incorporated all the feedback I've received to refine the PR.
 Weeks later, my PR passed the bar was finally approved!
 
-*A big thank-you to my PR reviewer Martin Hjelmare, who has been supportive and provided much of the valuable feedback.
-I would also like to extend my thanks to the members of the HA community who have contributed to the PR via other aspects such as testing and translations.*
-
 ## Building on Progress
 
-After my first PR, I had acquired a firm grasp of the development process, a strong familiarity with python and a deeper understanding of the Telegram functionalities.
+After my first PR, I had acquired a firm grasp of the development process, a strong familiarity with Python and a deeper understanding of the Telegram functionalities.
 Responses from the Home Assistant community was encouraging which motivated me to continue to contribute in various ways, such as:
 - Implementing new features
 - Bug fixes
 - Improving code quality
 - Contributing test cases
-- Writing/Improving documentation
-- Resolving issues
+- Improving documentation
 
-Eventually, a few members of the community suggested that I should appoint myself as code owner for the Telegram integration.
+Eventually, a few members of the community suggested that I should appoint myself as Code Owner for the Telegram integration.
 I submitted my request and sailed through the review.
-This has been a huge honor for me as it signifies trust and acknowledges my contributions and expertise for the integration.
+This has been a huge honor for me as it signifies trust and acknowledges my contributions and expertise in the integration.
 
 ## Final Thoughts
 
-My acceptance as code owner hasn't fundamentally changed my involvement;
+My acceptance as a Code Owner hasn't fundamentally changed my involvement;
 I'm still actively maintaining the Telegram integration and involved with the community.
 It's been a rewarding journey where I honed my skills and learned about the platform that I use daily.
 
