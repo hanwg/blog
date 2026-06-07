@@ -102,17 +102,6 @@ The integration is designed to streamline daily commutes through personalized da
 
 ---
 
-## <img src="pdf-datatable-icon.png" alt="PDF DataTable logo" class="side-projects-icon" /> PDF DataTable
-
-<code>React</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-
-PDF DataTable is a productivity tool that I built to export PDFs to CSV files.
-I used the React-PDF library to render PDFs to allow me to select elements so that I can quickly filter out relevant records to be exported. 
-
-[🌐 Website](https://pdf-datatable.hanwg.top) | [📂 GitHub Repo](https://github.com/hanwg/pdf-datatable) | [✒️ Blog Post](../posts/2025/04/pdf-datatable) 
-
----
-
 ## <img src="blog-icon.png" alt="My Tech Blog logo" class="side-projects-icon" /> My Tech Blog
 
 <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
