@@ -124,3 +124,11 @@ The Telegram bot integration is used for sending and receiving messages from a T
 | 2020 Aug | IAM      | <img src="certifications/forgerock-logo.jpg" alt="drawing" height="30" width="30"/>        | [ForgeRock Accredited Consultant](https://www.credly.com/badges/c0c99dfa-7a18-4add-9466-b1033bd1f187)                  |
 | 2021 Mar | IAM      | <img src="certifications/forgerock-logo.jpg" alt="drawing" height="30" width="30"/>        | [Okta Certified Professional](https://www.credly.com/badges/034d682f-2788-4866-a6b8-1bb7995ba6fd)                      |
 | 2014 Sep | ITIL     | <img src="certifications/axelos-logo.jpg" alt="drawing" height="30" width="30"/>           | ITIL Intermediate Operational Support and Analysis                                                                     |
+
+## Awards
+
+|                                                       |                                                                     |
+|-------------------------------------------------------|---------------------------------------------------------------------|
+| ![Hacktoberfest logo](awards/hacktoberfest-logo.webp) | **Hacktoberfest Super Contributor**<br>DigitalOcean<br>Oct 2025<br> |
+
+[Hacktoberfest](https://hacktoberfest.com/) is an annual event that encourages everyone to contribute to participating open-source projects on GitHub.
