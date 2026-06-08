@@ -7,7 +7,7 @@ date: 2026-05-04
 
 <img src="photo.png#center" alt="profile photo" style="width: 256px;" />
 
-I am a software architect and systems engineer with a 15-year track record of building and scaling digital infrastructure.
+I am a software architect and systems engineer with a 16-year track record of building and scaling digital infrastructure.
 My career has been defined by a constant evolution: writing code in various languages, designing resilient systems, and managing the environments they live in.
 While my journey started with a formal education, it is fueled by a restless curiosity and a love for self-hosted experimentation.
 I use this space to document my learning experiences and the technical insights I pick up along the way.
@@ -30,31 +30,31 @@ The following is a list of my core skills (not an exhaustive list) which I have 
 
 ## Work Experience
 
-|                                                 |                                                                              |
-|-------------------------------------------------|------------------------------------------------------------------------------|
-| ![Oracle logo](work-experience/oracle-logo.jpg) | **Oracle**<br>Principal Technical Operations Engineer<br>June 2025 - Present |
+|                                                 |                                                                                               |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| ![Oracle logo](work-experience/oracle-logo.jpg) | **Oracle**<br>Principal Technical Operations Engineer (Technical Lead)<br>June 2025 - Present |
 
-Principal engineer responsible for the operation of production environments to support critical business operations for the sovereign cloud running on Oracle Cloud Infrastructure (OCI).
+Served as Technical Lead and Founding Engineer to establish, operate, and maintain Oracle's first sovereign hyperscale cloud in Singapore, driving day-2 operational excellence, compliance, and continuous maintenance for classified workloads running on Oracle Cloud Infrastructure (OCI).
 
 Key achievements:
 - Co-authored the Concept of Operations (ConOps), establishing the operational procedures and best practices to meet stringent uptime, compliance and security requirements of classified workloads.
-- Designed and conducted comprehensive technical and operational training for the newly formed engineering workforce, accelerating team readiness and ensuring operational excellence across the Oracle technology stack.
+- Designed and executed comprehensive technical and operational training for both the newly formed engineering workforce and enterprise customers, accelerating day-2 readiness and standardizing operational excellence.
 - Provided technical guidance and mentorship to engineers, fostering a culture of continuous learning.
 - Responsible for incident management, orchestrating efforts across various regional teams to ensure rapid resolution of critical issues while maintaining transparent stakeholder communication.
 
 <br>
 
-|                                                      |                                                                                               |
-|------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| ![JP Morgan logo](work-experience/jpmorgan-logo.jpg) | **JP Morgan Chase**<br>Software Engineer III<br>2022 February - 2025 April (3 years 2 months) |
+|                                                               |                                                                                                         |
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| ![JPMorganChase logo](work-experience/jpmorganchase-logo.jpg) | **JPMorganChase**<br>Associate (Software Engineer)<br>2022 February - 2025 April (3 years 2 months) |
 
-Full stack developer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various lines of businesses in the bank.
+Platform engineer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various line of businesses in the bank.
 
 Key achievements:
-- Architected complex solutions consisting of components such as message queues, microservices, NoSQL database and third-party platforms.
-- Delivered highly scalable and highly available software solutions by Dockerizing apps and deploying them to Kubernetes / ECS.
-- Automated infrastructure provisioning using Infrastructure-as-Code (IaC) principles by developing Terraform modules to manage AWS resources across multiple environments.
-- Implemented DevOps practices by building Jenkins <abbr title="Continuous Integration Continuous Delivery">CICD</abbr> pipelines to automate builds, tests, scans, and deployments to achieve a reduction in developer toil.
+- Collaborated on the architecture and implementation of a multi-tenant Cloudera data platform on AWS using automated orchestration pipelines to dynamically provision on-demand Hadoop clusters.
+- Modernized data applications driving the migration of containerized workloads from on-premises Kubernetes to AWS EKS and ECS, significantly improving platform scalability and operational resilience.
+- Automated infrastructure provisioning using Infrastructure-as-Code (IaC) principles by developing modular Terraform configurations to manage AWS resources across multiple environments.
+- Implemented DevOps practices by engineering Jenkins CICD pipelines to automate builds, tests, security scans and deployments to achieve a reduction in developer toil.
 - Collaborated with other engineering teams across geographical time zones using Agile methodology to plan and deliver projects.
 
 <br>
@@ -63,11 +63,12 @@ Key achievements:
 |-----------------------------------------------------|-------------------------------------------------------------------------|
 | ![Deloitte logo](work-experience/deloitte-logo.jpg) | **Deloitte**<br>Manager<br>2018 June - 2022 February (3 years 9 months) |
 
-Software engineering manager at a consulting firm responsible for delivering Identity and Access Management (IAM) cybersecurity projects for the banking sector.
+Software engineering manager at a consulting firm responsible for delivering IAM cyber security projects for the banking sector.
 
 Key achievements:
-- Led a team of 6 engineers to deliver a workforce IAM platform for a bank which served the entire organization across multiple geographic regions.
-- Architected highly available and scalable solutions with automated load balancing and failovers to ensure system availability.
+- Architected and led a team of 6 engineers to deliver a global workforce IAM platform for a bank, successfully serving the entire organization across multiple geographic regions.
+- Directed the development and delivery of native iOS and Android mobile applications supporting advanced Multi-Factor Authentication (MFA), including Push Authentication and TOTP.
+- Accelerated enterprise integration by onboarding 100+ applications within a single year utilizing OIDC, OAuth2 and SAML authentication protocols.
 - Designed and conducted technical trainings to develop IAM expertise which accelerated onboarding of engineers across various experience levels.
 - Bridge cross regional engineering teams by fostering a culture of collaboration and knowledge sharing.
 
@@ -85,11 +86,28 @@ Developed and maintained a national-scale Public Key Infrastructure (PKI) platfo
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------|
 | ![ST logo](work-experience/st-logo.jpg) | **ST Electronics (Info-Software)**<br>Software Engineer<br>2009 July - 2018 May (5 years 11 months) |
 
-Contributed to the engineering and lifecycle support of mission-critical software solutions for public sector agencies, focusing on system stability and high-availability standards.
+Developed and maintained mission-critical software solutions for public sector agencies, focusing on system stability and high-availability standards.
+
+## Education
+
+|                                     |                                                                                           |
+|-------------------------------------|-------------------------------------------------------------------------------------------|
+| ![NUS logo](education/nus-logo.jpg) | **Bachelor's in Computer Science**<br>National University of Singapore (NUS)<br>June 2009 |
+| ![TP logo](education/tp-logo.jpg)   | **Diploma in Information Technology**<br>Temasek Polytechnic<br>August 2004               |
+
+## Projects
+
+|                                                          |                                                         |
+|----------------------------------------------------------|---------------------------------------------------------|
+| ![Home Assistant logo](projects/home-assistant-logo.png) | **Home Assistant (Open Source)**<br>May 2025 - Present |
+
+Current code owner and active contributor of the [Home Assistant (HA) Telegram bot integration](https://www.home-assistant.io/integrations/telegram_bot/), the most popular HA notification service used in over 21k active installations.
+
+Home Assistant is an open source home automation platform that functions as a central hub for controlling smart home devices and integrating with various services.
+
+The Telegram bot integration is used for sending and receiving messages from a Telegram bot account. This enables users to receive notifications and control their smart home via Telegram.
 
 ## Certifications
-
-It's not an exhaustive list, but some of the key certifications relevant to my career interest.
 
 |          |          |                                                                                            |                                                                                                                        |
 |----------|----------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
@@ -105,13 +123,4 @@ It's not an exhaustive list, but some of the key certifications relevant to my c
 | 2022 Sep | Cloud    | <img src="certifications/hashicorp-logo.jpg" alt="drawing" height="30" width="30"/>        | [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/f76d31a8-bf25-4038-897b-ff5fcb858fda)         |
 | 2020 Aug | IAM      | <img src="certifications/forgerock-logo.jpg" alt="drawing" height="30" width="30"/>        | [ForgeRock Accredited Consultant](https://www.credly.com/badges/c0c99dfa-7a18-4add-9466-b1033bd1f187)                  |
 | 2021 Mar | IAM      | <img src="certifications/forgerock-logo.jpg" alt="drawing" height="30" width="30"/>        | [Okta Certified Professional](https://www.credly.com/badges/034d682f-2788-4866-a6b8-1bb7995ba6fd)                      |
-| 2014 Sep | ITIL     | <img src="certifications/axelos-logo.jpg" alt="drawing" height="30" width="30"/>           | ITIL Intermediate Operational Support and Analysis                                                                     | 
-| 2011 Jan | Database | <img src="certifications/oracle-logo.jpg" alt="drawing" height="30" width="30"/>           | Oracle Database 11g Administrator Certified Associate                                                                  |
-| 2004     | App      | <img src="certifications/oracle-logo.jpg" alt="drawing" height="30" width="30"/>           | Java Certified Programmer                                                                                              |
-
-## Education
-
-|                                     |                                                                                           |
-|-------------------------------------|-------------------------------------------------------------------------------------------|
-| ![NUS logo](education/nus-logo.jpg) | **Bachelor's in Computer Science**<br>National University of Singapore (NUS)<br>June 2009 |
-| ![TP logo](education/tp-logo.jpg)   | **Diploma in Information Technology**<br>Temasek Polytechnic<br>August 2004               |
+| 2014 Sep | ITIL     | <img src="certifications/axelos-logo.jpg" alt="drawing" height="30" width="30"/>           | ITIL Intermediate Operational Support and Analysis                                                                     |
