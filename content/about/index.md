@@ -23,7 +23,7 @@ The following is a list of my core skills (not an exhaustive list) which I have 
 | Cloud                                                                | `OCI` `AWS` `Terraform` `Kubernetes`                                                          |
 | Database Systems                                                     | `RDBMS` (SQL)<br>`DynamoDB` (NoSQL)                                                           |
 | Web Development                                                      | `JavaScript` `HTML` `CSS`                                                                     |
-| <abbr title="Continuous Integration Continuous Delivery">CICD</abbr> | `Git` `SonarQube` `Maven` `Gradle` `JUnit 5`                                                  |
+| <abbr title="Continuous Integration Continuous Delivery">CICD</abbr> | `Git` `JUnit 5` `SonarQube` `Maven` `Gradle` `Jenkins` `GitHub Actions`                       |
 | Systems Engineering                                                  | `DNS` `Web Servers` `Load Balancers` `Virtualization` `Networking`                            |
 | Operations                                                           | `Incident Management` `Change Management` `Observability`                                     |
 | Misc.                                                                | `Agile` `Project Management`                                                                  |

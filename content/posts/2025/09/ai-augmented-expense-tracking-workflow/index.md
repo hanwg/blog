@@ -1,12 +1,12 @@
 ---
-title: "Agentic Expense Tracking Workflow"
+title: "AI-Augmented Expense Tracking Workflow"
 summary: "Tracking expenses with the help of AI and automation"
 date: 2025-09-24
 tags:
   - SoftwareEngineering
   - AI
 cover:
-   image: "agentic-expense-tracking-workflow.png"
+   image: "ai-augmented-expense-tracking-workflow"
    alt: "Expense tracking"
    caption: "Expense Tracking"
 ---
@@ -16,7 +16,7 @@ Personally, I opted for a custom low-code solution leveraging on AI and automati
 
 ## The Setup
 
-The solution involves integrating the following free open-sourced tools to create an agentic expense tracking workflow:
+The solution involves integrating the following free open-sourced tools to create an AI-augmented expense tracking workflow:
 
 | Tool          | Remarks                                                                                                                                         |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ The solution involves integrating the following free open-sourced tools to creat
 | Firefly       | Expense tracker that can import data through various sources such as CSV files or REST API.                                                     |
 
 The key to the solution lies with the N8N workflows which orchestrate the automation and processing.
-In the following sections, I will be breaking down the agentic expense tracking workflow to explain how it works.
+In the following sections, I will be breaking down the workflow to explain how it works.
 
 ## The Import Transaction Workflow
 
@@ -49,8 +49,8 @@ The flow:
 1. The workflow begins when the `transaction created` email event is triggered.
 2. Extract the text content of the email body from the email message.
 3. Parse the email body using regular expressions to retrieve the transaction details.
-4. Classify the transaction description using the AI agent to determine which expense category the transaction should belong to.
-    - The agent is preconfigured with the necessary model and prompt to perform the classification.
+4. Classify the transaction description using AI to determine which expense category the transaction should belong to.
+    - The AI agent is preconfigured with the necessary model and prompt to perform the classification.
     - Sample prompt:
       ```
       Classify the given transaction description using one of the categories:
@@ -131,6 +131,6 @@ The `Import Transaction` workflow processes a single transaction from a transact
 
 ## Conclusion
 
-We've seen how the agentic expense tracking workflow can free up valuable time and energy by automating the tedious and error-prone process of capturing and classifying transactions.
-Beyond accuracy and efficiency, the agentic expense tracking workflow has also provided me with a clearer and up-to-date picture of my financial status.
+We've seen how the AI-augmented expense tracking workflow can free up valuable time and energy by automating the tedious and error-prone process of capturing and classifying transactions.
+Beyond accuracy and efficiency, the workflow has also provided me with a clearer and up-to-date picture of my financial status.
 This insight empowers me to make smarter decisions, a benefit that will only grow with the increasing adoption of cashless payments.

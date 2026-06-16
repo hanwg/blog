@@ -11,13 +11,13 @@ It's a little bare at the moment since I'm still in the midst of filling up this
 
 ---
 
-## <img src="n8n-icon.png" alt="N8N logo" class="side-projects-icon" /> Agentic Expense Tracking Workflow
+## <img src="n8n-icon.png" alt="N8N logo" class="side-projects-icon" /> AI-Augmented Expense Tracking Workflow
 
 <code>JavaScript</code>
 
 A low-code solution based on workflow automation and AI agent for processing, classifying and importing financial transactions (fund transfers, credit card charges, and other forms of cashless payments) into an expense tracker.
 
-[✒️ Blog Post](../posts/2025/09/agentic-expense-tracking-workflow)
+[✒️ Blog Post](../posts/2025/09/ai-augmented-expense-tracking-workflow)
 
 ---
 
