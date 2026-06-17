@@ -1,5 +1,5 @@
 ---
-title: "My Home Lab Architecture Tour (Part 1)"
+title: "My Home Lab Architecture Tour, Part 1: Infrastructure Overview"
 summary: "An in-depth look at my self-hosted home lab architecture, featuring compute (Proxmox), networking (OPNsense), deployment automation (Komodo), and the services that run on it."
 date: 2026-06-17
 tags:
