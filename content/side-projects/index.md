@@ -11,13 +11,17 @@ It's a little bare at the moment since I'm still in the midst of filling up this
 
 ---
 
-## <img src="n8n-icon.png" alt="N8N logo" class="side-projects-icon" /> AI-Augmented Expense Tracking Workflow
+## Personal Home Lab
 
-<code>JavaScript</code>
+`Virtualization` `Docker` `Networking`
 
-A low-code solution based on workflow automation and AI agent for processing, classifying and importing financial transactions (fund transfers, credit card charges, and other forms of cashless payments) into an expense tracker.
+Designed, deployed, and maintained a self-hosted infrastructure to support a diverse portfolio of applications and services.
 
-[✒️ Blog Post](../posts/2025/09/ai-augmented-expense-tracking-workflow)
+- Leveraged Proxmox VE for enterprise-grade bare-metal virtualization and deployed containerized applications using Docker to optimize hardware resource utilization.
+- Designed and deployed a segmented network architecture using security zones, featuring internal DNS and a reverse proxy with SSL termination to isolate and secure application traffic.
+- Configured and managed a high-capacity Network Attached Storage (NAS) with RAID mirroring to mitigate data loss risks and ensure continuous system uptime.
+
+[✒️ Blog Post](../posts/2026/06/home-lab)
 
 ---
 
@@ -68,7 +72,7 @@ Achieved 🥉 Bronze on the integration quality scale
 
 <code>HomeAutomation</code> <code>Docker</code>
 
-This is a containerized implementation of the [Telegram Bot API server](https://github.com/tdlib/telegram-bot-api) that offers better network latency and support for larger file sizes compared to the official Telegram cloud servers.
+A containerized implementation of the official [Telegram Bot API server](https://github.com/tdlib/telegram-bot-api) that offers better network latency and support for larger file sizes compared to the official Telegram cloud servers.
 It is optimized for the Home Assistant platform, enabling a "1-click" style installation and configuration with automated updates.
 
 [📂 GitHub Repo](https://github.com/hanwg/hassio-apps) | [✒️ Blog Post](../posts/2026/03/telegram-bot-api-server)
@@ -111,3 +115,13 @@ This blog was built to share my passions, expertise and lessons learnt along the
 It isn't my first side project, but this one feels particularly meaningful for me.
 
 [🌐 Website](..) | [📂 GitHub Repo](https://github.com/hanwg/blog) | [✒️️ Blog Post](../posts/2025/03/new-website)
+
+---
+
+## <img src="n8n-icon.png" alt="N8N logo" class="side-projects-icon" /> AI-Augmented Expense Tracking Workflow
+
+<code>JavaScript</code>
+
+A low-code solution based on workflow automation and AI agent for processing, classifying and importing financial transactions (fund transfers, credit card charges, and other forms of cashless payments) into an expense tracker.
+
+[✒️ Blog Post](../posts/2025/09/ai-augmented-expense-tracking-workflow)
