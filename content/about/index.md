@@ -44,8 +44,8 @@ Key achievements:
 
 <br>
 
-|                                                               |                                                                                                         |
-|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|                                                               |                                                                                                     |
+|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | ![JPMorganChase logo](work-experience/jpmorganchase-logo.jpg) | **JPMorganChase**<br>Associate (Software Engineer)<br>2022 February - 2025 April (3 years 2 months) |
 
 Platform engineer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various line of businesses in the bank.
@@ -97,15 +97,15 @@ Developed and maintained mission-critical software solutions for public sector a
 
 ## Projects
 
-|                                                          |                                                         |
-|----------------------------------------------------------|---------------------------------------------------------|
+|                                                          |                                                        |
+|----------------------------------------------------------|--------------------------------------------------------|
 | ![Home Assistant logo](projects/home-assistant-logo.png) | **Home Assistant (Open Source)**<br>May 2025 - Present |
 
-Current code owner and active contributor of the [Home Assistant (HA) Telegram bot integration](https://www.home-assistant.io/integrations/telegram_bot/), the most popular HA notification service used in over 21k active installations.
+Home Assistant is a home automation platform that functions as a central hub for controlling smart home devices and integrating with various services.
 
-Home Assistant is an open source home automation platform that functions as a central hub for controlling smart home devices and integrating with various services.
-
-The Telegram bot integration is used for sending and receiving messages from a Telegram bot account. This enables users to receive notifications and control their smart home via Telegram.
+- Current code owner and active contributor of the [Home Assistant (HA) Telegram bot integration](https://www.home-assistant.io/integrations/telegram_bot/), the most popular HA notification service used in over 21k active installations.
+- Spearheaded the complete modernization of the Telegram integration, resulting in a significant improvement in user experience, performance and the long-term maintainability of the codebase.
+- Hacktoberfest 2025: Super Contributor
 
 ## Certifications
 
