@@ -48,7 +48,7 @@ Key achievements:
 |---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | ![JPMorganChase logo](work-experience/jpmorganchase-logo.jpg) | **JPMorganChase**<br>Associate (Software Engineer)<br>2022 February - 2025 April (3 years 2 months) |
 
-Platform engineer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various line of businesses in the bank.
+Software engineer responsible for the design and implementation of AWS cloud-native software solutions (data engineering and data pipelines) to serve the Big Data needs of various line of businesses in the bank.
 
 Key achievements:
 - Collaborated on the architecture and implementation of a multi-tenant Cloudera data platform on AWS using automated orchestration pipelines to dynamically provision on-demand Hadoop clusters.
