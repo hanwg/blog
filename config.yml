@@ -8,7 +8,7 @@ services:
     id: "G-M36QTZMP2P"
 privacy:
   googleAnalytics:
-    disable: false
+    disable: true
     respectDoNotTrack: true
 
 params:
