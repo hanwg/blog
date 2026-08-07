@@ -1,3 +1,5 @@
+{{/* Customization: add icons */}}
+
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
@@ -16,6 +18,24 @@
 {{- with (partial "author.html" .) }}
 {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" .)) }}
 {{- end }}
+{{- end }}
+
+{{- /* Customization: Add tags */ -}}
+{{- if .Params.tags }}
+<div class="tags" style="padding: 2px;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: flex-end; margin-top: 5px;">
+        {{ range .Params.tags }}
+        <a href="/tags/{{ . | urlize }}" style="margin-right: 5px;
+                  text-decoration: unset;
+                  color: white;
+                  background-color: rgb(55, 162, 121);
+                  border-radius: 6px;
+                  padding: 1px 12px;">
+            {{ . }}
+        </a>
+        {{ end }}
+    </div>
+</div>
 {{- end }}
 
 {{- with ($scratch.Get "meta") }}

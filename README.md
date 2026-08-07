@@ -41,7 +41,7 @@ To update Hugo,
 
 To update modules,
 1) Go to the module: `cd themes/MODULE_NAME`.
-2) Run `git pull` to update to the latest version.
+2) Run `git pull origin master` to update to the latest version.
 
 ### How-To: Install new modules
 
